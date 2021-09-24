@@ -15,6 +15,7 @@ DEFAULT_TEXT =  "Frances Naomi Clark was an American ichthyologist born in 1894,
 DESCRIPTION = """**Explore trained [spaCy v3.0](https://nightly.spacy.io) pipelines with the Proceedings of the Academy of Natural Sciences of Philadelphia**"""
 
 # functions to create the custom entity ruler
+# 
 def load_data(file):
     with open(file, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -47,7 +48,7 @@ st.markdown("**Upload Text File**")
 uploaded_file = st.file_uploader("File Upload", type=["txt"])
 
 if uploaded_file is not None:
-    patterns = srsly.read_json(Path(__file__).parent / "ansp-entity-ruler.json")
+    patterns = create_training_data("streamlit-ansp/ansp-taxa.json", "TAXA")
     generate_rules(patterns)
     doc = nlp(uploaded_file.getvalue().decode("utf-8"))
     
@@ -81,7 +82,7 @@ else:
         MODELS,
         doc,
         default_model=DEFAULT_MODEL,
-        visualizers=["parser", "ner", "ansp_ner", "tokens"],
+        visualizers=["parser", "ner", "tokens"],
         show_visualizer_select=True,
         sidebar_description=DESCRIPTION,
     )
