@@ -7,6 +7,8 @@ import importlib
 import random
 from spacy.pipeline import EntityRuler # Import the Entity Ruler for making custom entities
 from spacy.language import Language  # type: ignore 
+# Import the spaCy visualizer
+from spacy import displacy
 
 MODELS = srsly.read_json(Path(__file__).parent / "models.json")
 DEFAULT_MODEL = "en_core_web_sm"
@@ -14,7 +16,9 @@ DEFAULT_TEXT =  "Frances Naomi Clark was an American ichthyologist born in 1894,
 DESCRIPTION = """**Explore trained [spaCy v3.0](https://nightly.spacy.io) pipelines with the Proceedings of the Academy of Natural Sciences of Philadelphia**"""
 
 # NOTE: custom patterns have already been created for the NLP Pipeline > Entity Ruler via the ruler.py file.
-    
+
+st.title("Custom NER pipeline for taxonomic names and habitats")
+
 # FILE UPLOADER
 st.markdown("**Upload Text File**")
 uploaded_file = st.file_uploader("File Upload", type=["txt"])
@@ -26,14 +30,32 @@ if uploaded_file is not None:
     ruler.from_disk(Path(__file__).parent / "ansp-patterns.jsonl")
     doc = nlp(uploaded_file.getvalue().decode("utf-8"))
     
-    for ent in doc.ents:
-        st.write(ent.text, ",", ent.label_)
+    #for ent in doc.ents:
+    #    st.write(ent.text, ",", ent.label_)
+    
+    labels=list(nlp.get_pipe("ner").labels)
+    for label in nlp.get_pipe("entity_ruler").labels:
+        labels.append(label)
+    
+    ner_colors = [{"label": "TAXA", "color": "#fc9ce7"},
+                  {"label": "HABITAT", "color": "#afd5aa"}]
+    
+    spacy_streamlit.visualize_ner(
+        doc, 
+        labels=labels, 
+        colors=ner_colors, # doesn't work
+        title="Custom Entity Pipeline",
+        # sidebar_title="sidebar title", # doesn't work
+    )
+    st.text(f"Analyzed using spaCy model {DEFAULT_MODEL}")
+    
+    st.markdown('## Exploring the Tokens')
     
     spacy_streamlit.visualize(
         MODELS,
         doc,
         default_model=DEFAULT_MODEL,
-        visualizers=["parser", "ner", "tokens"],
+        visualizers=["tokens"],
         show_visualizer_select=True,
         sidebar_description=DESCRIPTION,
     )
@@ -48,21 +70,32 @@ else:
     ruler.from_disk(Path(__file__).parent / "ansp-patterns.jsonl")
     doc = nlp(text)
     
-    for ent in doc.ents:
-        st.write(ent.text, ",", ent.label_)
+    #for ent in doc.ents:
+    #    st.write(ent.text, ",", ent.label_)
     
     labels=list(nlp.get_pipe("ner").labels)
     for label in nlp.get_pipe("entity_ruler").labels:
         labels.append(label)
-        
-    spacy_streamlit.visualize_ner(doc, labels=labels)
     
-    #spacy_streamlit.visualize(
-    #    MODELS,
-    #    doc,
-    #    default_model=DEFAULT_MODEL,
-    #    visualizers=["parser", "ner", "tokens"],
-    #    ner_labels=nlp.get_pipe("entity_ruler").labels,
-    #    show_visualizer_select=True,
-    #    sidebar_description=DESCRIPTION,
-    #)
+    ner_colors = [{"label": "TAXA", "color": "#fc9ce7"},
+                  {"label": "HABITAT", "color": "#afd5aa"}]
+    
+    spacy_streamlit.visualize_ner(
+        doc, 
+        labels=labels, 
+        colors=ner_colors, # doesn't work
+        title="Custom Entity Pipeline",
+        # sidebar_title="sidebar title", # doesn't work
+    )
+    st.text(f"Analyzed using spaCy model {DEFAULT_MODEL}")
+    
+    st.markdown('## Exploring the Tokens')
+    
+    spacy_streamlit.visualize(
+        MODELS,
+        doc,
+        default_model=DEFAULT_MODEL,
+        visualizers=["tokens"],
+        show_visualizer_select=True,
+        sidebar_description=DESCRIPTION,
+    )
