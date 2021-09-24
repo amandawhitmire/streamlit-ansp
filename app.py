@@ -7,17 +7,19 @@ import importlib
 import random
 from spacy.pipeline import EntityRuler # Import the Entity Ruler for making custom entities
 
+st.set_page_config(layout="wide")
+
 MODELS = srsly.read_json(Path(__file__).parent / "models.json")
 DEFAULT_MODEL = "en_core_web_sm"
-DEFAULT_TEXT =  "Frances Naomi Clark was an American ichthyologist born in 1894, and was one of the first woman fishery researchers to receive world-wide recognition. Frances Naomi Clark was an American ichthyologist born in 1894, and was one of the first woman fishery researchers to receive world-wide recognition. Seven Ampelis cedrorum specimens were collected in a meadow near lowland fruit trees. Some habitats we know are in the json file are near large rocks, near river mouths, near the bottom and near the ocean. Some species names are Hemigrapsus affinis, Hemigrapsus crassimanus, Hendersonia alternifoliae and Hendersonia celtifolia."
+DEFAULT_TEXT =  "Frances Naomi Clark was an American ichthyologist born in 1894, and was one of the first woman fishery researchers to receive world-wide recognition. She attended Stanford University, and worked for the California Division of Fish and Game. Seven Ampelis cedrorum specimens were collected in a meadow near lowland fruit trees."
 DESCRIPTION = """**Explore trained [spaCy v3.0](https://nightly.spacy.io) pipelines with the Proceedings of the Academy of Natural Sciences of Philadelphia**"""
 
 # NOTE: custom patterns have already been created for the NLP Pipeline > Entity Ruler via the ruler.py file.
 
-st.title("Custom NER pipeline for taxonomic names and habitats")
+st.title("Custom NER pipeline for taxonomic names & habitats")
 
 # FILE UPLOADER
-st.markdown("**Upload Text File**")
+st.markdown(":sparkles: **Upload Text File** :sparkles: ")
 uploaded_file = st.file_uploader("File Upload", type=["txt"])
 
 if uploaded_file is not None:
@@ -42,6 +44,7 @@ if uploaded_file is not None:
         labels=labels, 
         colors=ner_colors, # doesn't work
         title="Custom Entity Pipeline",
+        show_table=False,
         # sidebar_title="sidebar title", # doesn't work
     )
     st.text(f"Analyzed using spaCy model {DEFAULT_MODEL}")
@@ -82,6 +85,7 @@ else:
         labels=labels, 
         colors=ner_colors, # doesn't work
         title="Custom Entity Pipeline",
+        show_table=False,
         # sidebar_title="sidebar title", # doesn't work
     )
     st.text(f"Analyzed using spaCy model {DEFAULT_MODEL}")
