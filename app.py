@@ -42,7 +42,6 @@ if uploaded_file is not None:
 else:
     
     text = st.text_area("Text to analyze", DEFAULT_TEXT, height=200)
-    # doc = spacy_streamlit.process_text(NLP, text)
 
     nlp = spacy.load(DEFAULT_MODEL)
     ruler = nlp.add_pipe("entity_ruler")
