@@ -26,7 +26,7 @@ uploaded_file = st.file_uploader("File Upload", type=["txt"])
 if uploaded_file is not None:
     
     nlp = spacy.load(DEFAULT_MODEL)
-    ruler = nlp.add_pipe("entity_ruler")
+    ruler = nlp.add_pipe("entity_ruler", before='ner')
     ruler.from_disk(Path(__file__).parent / "ansp-patterns.jsonl")
     doc = nlp(uploaded_file.getvalue().decode("utf-8"))
     
@@ -56,7 +56,7 @@ if uploaded_file is not None:
         doc,
         default_model=DEFAULT_MODEL,
         visualizers=["tokens"],
-        show_visualizer_select=True,
+        show_visualizer_select=False,
         sidebar_description=DESCRIPTION,
     )
 
@@ -66,7 +66,7 @@ else:
     text = st.text_area("Text to analyze", DEFAULT_TEXT, height=200)
 
     nlp = spacy.load(DEFAULT_MODEL)
-    ruler = nlp.add_pipe("entity_ruler")
+    ruler = nlp.add_pipe("entity_ruler", before='ner')
     ruler.from_disk(Path(__file__).parent / "ansp-patterns.jsonl")
     doc = nlp(text)
     
@@ -96,6 +96,6 @@ else:
         doc,
         default_model=DEFAULT_MODEL,
         visualizers=["tokens"],
-        show_visualizer_select=True,
+        show_visualizer_select=False,
         sidebar_description=DESCRIPTION,
     )
