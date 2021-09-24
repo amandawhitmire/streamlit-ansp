@@ -6,9 +6,6 @@ import srsly
 import importlib
 import random
 from spacy.pipeline import EntityRuler # Import the Entity Ruler for making custom entities
-from spacy.language import Language  # type: ignore 
-# Import the spaCy visualizer
-from spacy import displacy
 
 MODELS = srsly.read_json(Path(__file__).parent / "models.json")
 DEFAULT_MODEL = "en_core_web_sm"
