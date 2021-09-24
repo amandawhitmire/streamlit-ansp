@@ -51,11 +51,18 @@ else:
     for ent in doc.ents:
         st.write(ent.text, ",", ent.label_)
     
-    spacy_streamlit.visualize(
-        MODELS,
-        doc,
-        default_model=DEFAULT_MODEL,
-        visualizers=["parser", "ner", "tokens"],
-        show_visualizer_select=True,
-        sidebar_description=DESCRIPTION,
-    )
+    labels=list(nlp.get_pipe("ner").labels)
+    for label in nlp.get_pipe("entity_ruler").labels:
+        labels.append(label)
+        
+    spacy_streamlit.visualize_ner(doc, labels=labels)
+    
+    #spacy_streamlit.visualize(
+    #    MODELS,
+    #    doc,
+    #    default_model=DEFAULT_MODEL,
+    #    visualizers=["parser", "ner", "tokens"],
+    #    ner_labels=nlp.get_pipe("entity_ruler").labels,
+    #    show_visualizer_select=True,
+    #    sidebar_description=DESCRIPTION,
+    #)
