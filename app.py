@@ -20,7 +20,7 @@ st.title("Custom NER pipeline for taxonomic names & habitats")
 
 st.markdown("I am currently working on a project to explore the corpus of the Proceedings of the Academy of Natural Sciences of Philadelphia (1841 - 1922), available at the [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/bibliography/6885). I am interested in how this corpus may be leveraged for historical species occurrence data. Species names in the text have already been identified via the [Global Names Finder](https://doi.org/10.5281/zenodo.5111562), but which of these could be an occurrence record ('I saw this thing, at this place, at this time.')? I'm hoping to leverge the power of NLP with spaCy, and this app serves as a demo of what we can accomplish.")
 
-st.markdown(":zap: :mushroom: :blowfish: :honeybee: :turtle: :fish: :octopus: :zap: :mushroom: :blowfish: :honeybee: :turtle: :fish: :octopus: :zap: :mushroom: :blowfish: :honeybee: :turtle: :fish: :octopus: :zap: ")
+st.markdown(":zap: :mushroom: :blowfish: :honeybee: :turtle: :fish: :octopus: :zap: :mushroom: :blowfish: :honeybee: :turtle: :fish: :octopus: :zap: :mushroom: :blowfish: :honeybee: :turtle: :fish: :octopus: :zap: :mushroom: :blowfish: :honeybee: :turtle: :fish: :octopus: :zap: :mushroom: :blowfish: :honeybee: :turtle: :fish: :octopus: :zap: ")
             
 st.markdown("---")
 
@@ -43,14 +43,13 @@ if uploaded_file is not None:
     labels=list(nlp.get_pipe("ner").labels)
     for label in nlp.get_pipe("entity_ruler").labels:
         labels.append(label)
-    
-    ner_colors = [{"label": "TAXA", "color": "#fc9ce7"},
-                  {"label": "HABITAT", "color": "#afd5aa"}]
+        
+    colors = {"CARDINAL":"#DB9D85","DATE":"#D0A374","EVENT":"#C2A968","FAC":"#B1AF64","GPE":"#9DB469","HABITAT":"#86B875","LANGUAGE":"#6DBC86","LAW":"#53BE98","LOC":"#3DBEAB","MONEY":"#39BDBC","NORP":"#4CB9CC","ORDINAL":"#69B4D8","ORG":"#87AEDF","PERCENT":"#A3A7E2","PERSON":"#BB9FE0","PRODUCT":"#CD99D8","QUANTITY":"#DA95CC","TAXA":"#E293BD","TIME":"#E494AB","WORK_OF_ART":"#E29898","HABITAT":"#86B875","TAXA":"#E293BD"}
     
     spacy_streamlit.visualize_ner(
         doc, 
         labels=labels, 
-        colors=ner_colors, # doesn't work
+        colors=colors,
         title="Custom Entity Pipeline",
         show_table=False,
         # sidebar_title="sidebar title", # doesn't work
@@ -85,16 +84,18 @@ else:
     for label in nlp.get_pipe("entity_ruler").labels:
         labels.append(label)
     
-    ner_colors = [{"label": "TAXA", "color": "#fc9ce7"},
-                  {"label": "HABITAT", "color": "#afd5aa"}]
+    colors = {"CARDINAL":"#ACA4E2","DATE":"#A3A7E2","EVENT":"#99A9E2","FAC":"#8FACE1","GPE":"#85AEDF","HABITAT":"#7AB1DD","LANGUAGE":"#70B3DA","LAW":"#65B5D6","LOC":"#5AB7D2","MONEY":"#50B9CE","NORP":"#47BAC9","ORDINAL":"#3FBBC4","ORG":"#3ABCBE","PERCENT":"#38BDB9","PERSON":"#38BEB3","PRODUCT":"#3CBEAC","QUANTITY":"#43BEA6","TAXA":"#4ABE9F","TIME":"#53BE99","WORK_OF_ART":"#5CBD92","HABITAT":"#7AB1DD","TAXA":"#4ABE9F"}
+    
+    # options = {"ents": labels, "colors": ner_colors}
+    # st.write(labels)
+    # st.write(colors)
     
     spacy_streamlit.visualize_ner(
         doc, 
         labels=labels, 
-        colors=ner_colors, # doesn't work
+        colors=colors,
         title="Custom Entity Pipeline",
         show_table=False,
-        # sidebar_title="sidebar title", # doesn't work
     )
     st.text(f"Analyzed using spaCy model {DEFAULT_MODEL}")
     
