@@ -84,7 +84,7 @@ else:
     for label in nlp.get_pipe("entity_ruler").labels:
         labels.append(label)
     
-    colors = {"CARDINAL":"#ACA4E2","DATE":"#A3A7E2","EVENT":"#99A9E2","FAC":"#8FACE1","GPE":"#85AEDF","HABITAT":"#7AB1DD","LANGUAGE":"#70B3DA","LAW":"#65B5D6","LOC":"#5AB7D2","MONEY":"#50B9CE","NORP":"#47BAC9","ORDINAL":"#3FBBC4","ORG":"#3ABCBE","PERCENT":"#38BDB9","PERSON":"#38BEB3","PRODUCT":"#3CBEAC","QUANTITY":"#43BEA6","TAXA":"#4ABE9F","TIME":"#53BE99","WORK_OF_ART":"#5CBD92","HABITAT":"#7AB1DD","TAXA":"#4ABE9F"}
+    colors = {"CARDINAL":"#DB9D85","DATE":"#D0A374","EVENT":"#C2A968","FAC":"#B1AF64","GPE":"#9DB469","HABITAT":"#86B875","LANGUAGE":"#6DBC86","LAW":"#53BE98","LOC":"#3DBEAB","MONEY":"#39BDBC","NORP":"#4CB9CC","ORDINAL":"#69B4D8","ORG":"#87AEDF","PERCENT":"#A3A7E2","PERSON":"#BB9FE0","PRODUCT":"#CD99D8","QUANTITY":"#DA95CC","TAXA":"#E293BD","TIME":"#E494AB","WORK_OF_ART":"#E29898","HABITAT":"#86B875","TAXA":"#E293BD"}
     
     # options = {"ents": labels, "colors": ner_colors}
     # st.write(labels)
