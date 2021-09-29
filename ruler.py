@@ -2,7 +2,6 @@ import spacy
 from pathlib import Path
 import srsly
 import importlib
-import random
 from spacy.pipeline import EntityRuler # Import the Entity Ruler for making custom entities
 from spacy.language import Language  # type: ignore 
 import json
