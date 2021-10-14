@@ -69,8 +69,8 @@ if uploaded_file is not None:
 
 # IF NO FILE UPLOADED
 else:
-    
-    text = st.text_area("Text to analyze", DEFAULT_TEXT, height=200)
+    st.markdown(":sparkles: **Paste Text Here** :sparkles: ")
+    text = st.text_area("(Default text is shown)",DEFAULT_TEXT, height=200)
 
     nlp = spacy.load(DEFAULT_MODEL)
     ruler = nlp.add_pipe("entity_ruler", before='ner')
