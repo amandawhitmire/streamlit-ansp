@@ -1,6 +1,7 @@
 import spacy_streamlit
 import streamlit as st
 import spacy
+import pandas as pd
 from pathlib import Path
 import srsly
 import importlib
@@ -13,6 +14,11 @@ MODELS = srsly.read_json(Path(__file__).parent / "models.json")
 DEFAULT_MODEL = "en_core_web_sm"
 DEFAULT_TEXT =  "Frances Naomi Clark was an American ichthyologist born in 1894, and was one of the first woman fishery researchers to receive world-wide recognition. She attended Stanford University, and worked for the California Division of Fish and Game. Seven Ampelis cedrorum specimens were collected in a meadow near lowland fruit trees."
 DESCRIPTION = """**Explore trained [spaCy v3.0](https://nightly.spacy.io) pipelines with the Proceedings of the Academy of Natural Sciences of Philadelphia**"""
+
+@st.cache
+def convert_df(df):
+    # IMPORTANT: Cache the conversion to prevent computation on every rerun
+    return df.to_csv().encode('utf-8')
 
 # NOTE: custom patterns have already been created for the NLP Pipeline > Entity Ruler via the ruler.py file.
 
@@ -50,7 +56,7 @@ if uploaded_file is not None:
         doc, 
         labels=labels, 
         colors=colors,
-        title="Custom Entity Pipeline",
+        title="Custom Entity Labels",
         show_table=False,
         # sidebar_title="sidebar title", # doesn't work
     )
@@ -65,6 +71,34 @@ if uploaded_file is not None:
         visualizers=["tokens"],
         show_visualizer_select=False,
         sidebar_description=DESCRIPTION,
+    )
+    
+    # Create dataframe for data download
+    rows = []
+    for token in doc:
+        rows.append(
+            {
+                'Token': token.text, 
+                'Lemma': token.lemma_,
+                'POS': token.pos_,
+                'Tag': token.tag_,
+                'Dependency': token.dep_,
+                'Head': token.head,
+                'Ent Type': token.ent_type_,
+                'IsAlpha': token.is_alpha,
+                'IsPunct': token.is_punct,
+                'IsStop': token.is_stop
+            }
+        )   
+    tokes = pd.DataFrame(rows)
+    csv = convert_df(tokes)
+
+    # Download the tokens?
+    st.download_button(
+        label="Download TOKEN DATA as CSV",
+        data =csv,
+        file_name='tokens.csv',
+        mime='text/csv',
     )
 
 # IF NO FILE UPLOADED
@@ -94,7 +128,7 @@ else:
         doc, 
         labels=labels, 
         colors=colors,
-        title="Custom Entity Pipeline",
+        title="Custom Entity Labels",
         show_table=False,
     )
     st.text(f"Analyzed using spaCy model {DEFAULT_MODEL}")
@@ -109,3 +143,32 @@ else:
         show_visualizer_select=False,
         sidebar_description=DESCRIPTION,
     )
+    
+    # Create dataframe for data download
+    rows = []
+    for token in doc:
+        rows.append(
+            {
+                'Token': token.text, 
+                'Lemma': token.lemma_,
+                'POS': token.pos_,
+                'Tag': token.tag_,
+                'Dependency': token.dep_,
+                'Head': token.head,
+                'Ent Type': token.ent_type_,
+                'IsAlpha': token.is_alpha,
+                'IsPunct': token.is_punct,
+                'IsStop': token.is_stop
+            }
+        )   
+    tokes = pd.DataFrame(rows)
+    csv = convert_df(tokes)
+
+    # Download the tokens?
+    st.download_button(
+        label="Download TOKEN DATA as CSV",
+        data =csv,
+        file_name='tokens.csv',
+        mime='text/csv',
+    )
+    
