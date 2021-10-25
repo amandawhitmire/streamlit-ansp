@@ -14,7 +14,7 @@ st.set_page_config(layout="wide")
 MODELS = srsly.read_json(Path(__file__).parent / "models.json")
 DEFAULT_MODEL = "en_core_web_sm"
 DEFAULT_TEXT =  "Frances Naomi Clark was an American ichthyologist born in 1894, and was one of the first woman fishery researchers to receive world-wide recognition. She attended Stanford University, and worked for the California Division of Fish and Game. Seven Ampelis cedrorum specimens were collected in a meadow near lowland fruit trees."
-DESCRIPTION = """**Explore trained [spaCy v3.0](https://nightly.spacy.io) pipelines with the Proceedings of the Academy of Natural Sciences of Philadelphia**"""
+DESCRIPTION = """**Explore trained [spaCy v3.0](https://nightly.spacy.io) pipelines with the Proceedings of the Academy of Natural Sciences of Philadelphia (ANSP)**"""
 FOOTER = """<span style="font-size: 0.75em">&hearts; Built with [`spacy-streamlit`](https://github.com/explosion/spacy-streamlit)</span>"""
 
 @st.cache
@@ -46,12 +46,12 @@ with st.sidebar:
         st.write("")
     
     st.write(DESCRIPTION)    
-    
-    st.markdown(":hedgehog: How does it work? :hedgehog: ")
-    st.write("Upload a text file or paste text into the box to explore named entities and the results of spaCy's natural language processing pipeline. Download the CSV table to continue your work outside of this app.")
     st.write("") # vertical spacing
-    st.markdown(":owl: Future Work  :owl: ")
-    st.write("Future versions of this app will supply you with sample ANSP texts to look at. We are curating subsets of the corpus.")
+    st.markdown("## How does it work?")
+    st.markdown("Upload a text file or paste text into the box to explore named entities and the results of spaCy's natural language processing pipeline. Keep in mind that the set of habitat entities are from [Nguyen et al. 2019](https://doi.org/10.3897/BDJ.7.e29626) & the taxonomic names were mined from the ANSP corpus using Global Names [GNfinder](https://github.com/gnames/gnfinder). If you upload non-ANSP text, some taxonomic names will get missed.  Download the CSV table to continue your work outside of this app.")
+    st.write("") # vertical spacing
+    st.markdown(":owl: **Future Work**  :owl: ")
+    st.write("Future versions of this app will supply you with sample ANSP texts to look at. We are working on curating interesting subsets of the corpus.")
     
 
     #st.write("## Model")
