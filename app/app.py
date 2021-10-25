@@ -40,7 +40,7 @@ with st.sidebar:
         st.write("")
 
     with col2:
-        st.image('https://github.com/amandawhitmire/streamlit-ansp/blob/master/images/leading-logo-1.png')
+        st.image('https://github.com/amandawhitmire/streamlit-ansp/blob/master/images/leading-logo-1.jpg')
 
     with col3:
         st.write("")
