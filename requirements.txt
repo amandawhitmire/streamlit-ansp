@@ -4,6 +4,7 @@ srsly
 typer
 streamlit>=0.86.0
 spacy==3.1.0,<4.0.0
+AgGrid
 https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.1.0/en_core_web_lg-3.1.0.tar.gz#egg=en_core_web_lg==3.1.0
 https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.1.0/en_core_web_md-3.1.0.tar.gz#egg=en_core_web_md==3.1.0
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.1.0/en_core_web_sm-3.1.0.tar.gz#egg=en_core_web_sm==3.1.0
