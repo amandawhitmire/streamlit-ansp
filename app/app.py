@@ -7,6 +7,7 @@ import srsly
 import importlib
 import random
 from spacy.pipeline import EntityRuler # Import the Entity Ruler for making custom entities
+from st_aggrid import AgGrid
 
 st.set_page_config(layout="wide")
 
@@ -14,6 +15,7 @@ MODELS = srsly.read_json(Path(__file__).parent / "models.json")
 DEFAULT_MODEL = "en_core_web_sm"
 DEFAULT_TEXT =  "Frances Naomi Clark was an American ichthyologist born in 1894, and was one of the first woman fishery researchers to receive world-wide recognition. She attended Stanford University, and worked for the California Division of Fish and Game. Seven Ampelis cedrorum specimens were collected in a meadow near lowland fruit trees."
 DESCRIPTION = """**Explore trained [spaCy v3.0](https://nightly.spacy.io) pipelines with the Proceedings of the Academy of Natural Sciences of Philadelphia**"""
+FOOTER = """<span style="font-size: 0.75em">&hearts; Built with [`spacy-streamlit`](https://github.com/explosion/spacy-streamlit)</span>"""
 
 @st.cache
 def convert_df(df):
@@ -30,9 +32,49 @@ st.markdown(":zap: :mushroom: :blowfish: :honeybee: :turtle: :fish: :octopus: :z
             
 st.markdown("---")
 
-# FILE UPLOADER
+# SIDEBAR START ---------------------------- 
+with st.sidebar:
+    col1, col2, col3 = st.columns([1,6,1])
+
+    with col1:
+        st.write("")
+
+    with col2:
+        st.image('../images/leading-logo-1.png')
+
+    with col3:
+        st.write("")
+    
+    st.write(DESCRIPTION)    
+    
+    st.markdown(":hedgehog: How does it work? :hedgehog: ")
+    st.write("Upload a text file or paste text into the box to explore named entities and the results of spaCy's natural language processing pipeline. Download the CSV table to continue your work outside of this app.")
+    st.write("") # vertical spacing
+    st.markdown(":owl: Future Work  :owl: ")
+    st.write("Future versions of this app will supply you with sample ANSP texts to look at. We are curating subsets of the corpus.")
+    
+
+    #st.write("## Model")
+    #model = st.selectbox(
+    #    "Which model would you like to use?", ["English | Small", "English | Medium", "English | Large", "English | TRF"]
+    #)
+    
+    #for i in range(int(st.number_input('Num:'))): foo()
+    #if st.sidebar.selectbox('I:',['f']) == 'f': b()
+    #my_slider_val = st.slider('Quinn Mallory', 1, 88)
+    #st.write(slider_val)
+    
+    st.write("") # vertical padding
+    st.markdown(
+        FOOTER,
+        unsafe_allow_html=True,
+    )
+# SIDEBAR END ---------------------------- 
+
+# FILE UPLOADER ----------------------------
 st.markdown(":sparkles: **Upload Text File** :sparkles: ")
 uploaded_file = st.file_uploader("File Upload", type=["txt"])
+# FILE UPLOADER ----------------------------
 
 st.markdown("---")
 
@@ -40,12 +82,11 @@ if uploaded_file is not None:
     
     nlp = spacy.load(DEFAULT_MODEL)
     ruler = nlp.add_pipe("entity_ruler", before='ner')
-    ruler.from_disk(Path(__file__).parent / "ansp-patterns.jsonl")
+    ruler.from_disk(Path(__file__).parent / "../data/ansp-patterns.jsonl")
     doc = nlp(uploaded_file.getvalue().decode("utf-8"))
     
-    #for ent in doc.ents:
-    #    st.write(ent.text, ",", ent.label_)
-    
+    # to plot the labels for the custom etitites, we have to make a new set.
+    # thank you to Jeremy Nelson for helping me figure this out. 
     labels=list(nlp.get_pipe("ner").labels)
     for label in nlp.get_pipe("entity_ruler").labels:
         labels.append(label)
@@ -60,19 +101,8 @@ if uploaded_file is not None:
         show_table=False,
         # sidebar_title="sidebar title", # doesn't work
     )
-    st.text(f"Analyzed using spaCy model {DEFAULT_MODEL}")
     
     st.markdown('## Exploring the Tokens')
-    
-    spacy_streamlit.visualize(
-        MODELS,
-        doc,
-        default_model=DEFAULT_MODEL,
-        visualizers=["tokens"],
-        show_visualizer_select=False,
-        sidebar_description=DESCRIPTION,
-    )
-    
     # Create dataframe for data download
     rows = []
     for token in doc:
@@ -92,7 +122,9 @@ if uploaded_file is not None:
         )   
     tokes = pd.DataFrame(rows)
     csv = convert_df(tokes)
-
+    
+    AgGrid(tokes)
+    
     # Download the tokens?
     st.download_button(
         label="Download TOKEN DATA as CSV",
@@ -100,50 +132,36 @@ if uploaded_file is not None:
         file_name='tokens.csv',
         mime='text/csv',
     )
-
-# IF NO FILE UPLOADED
+    st.text(f"Analyzed using spaCy model {DEFAULT_MODEL}")
+    
+# IF NO FILE UPLOADED ---------------------
 else:
     st.markdown(":sparkles: **Paste Text Here** :sparkles: ")
     text = st.text_area("(Default text is shown)",DEFAULT_TEXT, height=200)
 
     nlp = spacy.load(DEFAULT_MODEL)
     ruler = nlp.add_pipe("entity_ruler", before='ner')
-    ruler.from_disk(Path(__file__).parent / "ansp-patterns.jsonl")
+    ruler.from_disk(Path(__file__).parent / "../data/ansp-patterns.jsonl")
     doc = nlp(text)
     
-    #for ent in doc.ents:
-    #    st.write(ent.text, ",", ent.label_)
-    
+    # to plot the labels for the custom etitites, we have to make a new set.
+    # thank you to Jeremy Nelson for helping me figure this out. 
     labels=list(nlp.get_pipe("ner").labels)
     for label in nlp.get_pipe("entity_ruler").labels:
         labels.append(label)
     
     colors = {"CARDINAL":"#DB9D85","DATE":"#D0A374","EVENT":"#C2A968","FAC":"#B1AF64","GPE":"#9DB469","HABITAT":"#86B875","LANGUAGE":"#6DBC86","LAW":"#53BE98","LOC":"#3DBEAB","MONEY":"#39BDBC","NORP":"#4CB9CC","ORDINAL":"#69B4D8","ORG":"#87AEDF","PERCENT":"#A3A7E2","PERSON":"#BB9FE0","PRODUCT":"#CD99D8","QUANTITY":"#DA95CC","TAXA":"#E293BD","TIME":"#E494AB","WORK_OF_ART":"#E29898","HABITAT":"#86B875","TAXA":"#E293BD"}
     
-    # options = {"ents": labels, "colors": ner_colors}
-    # st.write(labels)
-    # st.write(colors)
-    
+    # show the labeled text
     spacy_streamlit.visualize_ner(
         doc, 
         labels=labels, 
         colors=colors,
         title="Custom Entity Labels",
         show_table=False,
-    )
-    st.text(f"Analyzed using spaCy model {DEFAULT_MODEL}")
+        )
     
     st.markdown('## Exploring the Tokens')
-    
-    spacy_streamlit.visualize(
-        MODELS,
-        doc,
-        default_model=DEFAULT_MODEL,
-        visualizers=["tokens"],
-        show_visualizer_select=False,
-        sidebar_description=DESCRIPTION,
-    )
-    
     # Create dataframe for data download
     rows = []
     for token in doc:
@@ -163,7 +181,9 @@ else:
         )   
     tokes = pd.DataFrame(rows)
     csv = convert_df(tokes)
-
+    
+    AgGrid(tokes)
+        
     # Download the tokens?
     st.download_button(
         label="Download TOKEN DATA as CSV",
@@ -171,4 +191,19 @@ else:
         file_name='tokens.csv',
         mime='text/csv',
     )
+
+    st.text(f"Analyzed using spaCy model {DEFAULT_MODEL}")
     
+# this is the code for using the built-in tokens visualizer. 
+# I do not use this because it does not use the custom entity ruler in the
+# table, even though the correct pipeline results are available in the download.
+# I also really like the AggGrid options to filter the data in the table.
+
+#spacy_streamlit.visualize(
+#    MODELS,
+#    doc,
+#    default_model=DEFAULT_MODEL,
+#    visualizers=["tokens"],
+#    show_visualizer_select=False,
+#    sidebar_description=DESCRIPTION,
+#)
