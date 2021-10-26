@@ -49,6 +49,7 @@ with st.sidebar:
     st.write("") # vertical spacing
     st.markdown("## How does it work?")
     st.markdown("Upload a text file or paste text into the box to explore named entities and the results of spaCy's natural language processing pipeline. Keep in mind that the set of habitat entities are from [Nguyen et al. 2019](https://doi.org/10.3897/BDJ.7.e29626) & the taxonomic names were mined from the ANSP corpus using Global Names [GNfinder](https://github.com/gnames/gnfinder). If you upload non-ANSP text, some taxonomic names will get missed.  Download the CSV table to continue your work outside of this app.")
+    st.markdown("**NOTE**: The set of taxonomic names includes over 160,000 items - please be patient as the app runs, and be mindful of the length of your text file. I will work to speed it up!")
     st.write("") # vertical spacing
     st.markdown(":owl: **Future Work**  :owl: ")
     st.write("Future versions of this app will supply you with sample ANSP texts to look at. We are working on curating interesting subsets of the corpus.")
