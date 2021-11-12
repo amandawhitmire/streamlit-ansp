@@ -22,7 +22,7 @@ def create_training_data(file, type):
         patterns.append(pattern)
     return (patterns)
 
-taxa_patterns = create_training_data("/Users/thalassa/streamlit/streamlit-ansp/data/ansp-taxa.json", "TAXA")
+taxa_patterns = create_training_data("/Users/thalassa/streamlit/streamlit-ansp/data/ansp-taxa-clean.json", "TAXA")
 hab_patterns = create_training_data("/Users/thalassa/streamlit/streamlit-ansp/data/ansp-habitat.json", "HABITAT")
   
 nlp = spacy.load("en_core_web_sm")
@@ -30,4 +30,4 @@ ruler = nlp.add_pipe("entity_ruler", before='ner')
 ruler.add_patterns(taxa_patterns)
 ruler.add_patterns(hab_patterns)
 
-ruler.to_disk("/Users/thalassa/streamlit/streamlit-ansp/data/ansp-patterns.jsonl")
+ruler.to_disk("/Users/thalassa/streamlit/streamlit-ansp/data/ansp-clean-patterns.jsonl")

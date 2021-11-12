@@ -83,7 +83,7 @@ if uploaded_file is not None:
     
     nlp = spacy.load(DEFAULT_MODEL)
     ruler = nlp.add_pipe("entity_ruler", before='ner')
-    ruler.from_disk(Path(__file__).parent / "../data/ansp-patterns.jsonl")
+    ruler.from_disk(Path(__file__).parent / "../data/ansp-clean-patterns.jsonl")
     doc = nlp(uploaded_file.getvalue().decode("utf-8"))
     
     # to plot the labels for the custom etitites, we have to make a new set.
@@ -142,7 +142,7 @@ else:
 
     nlp = spacy.load(DEFAULT_MODEL)
     ruler = nlp.add_pipe("entity_ruler", before='ner')
-    ruler.from_disk(Path(__file__).parent / "../data/ansp-patterns.jsonl")
+    ruler.from_disk(Path(__file__).parent / "../data/ansp-clean-patterns.jsonl")
     doc = nlp(text)
     
     # to plot the labels for the custom etitites, we have to make a new set.
