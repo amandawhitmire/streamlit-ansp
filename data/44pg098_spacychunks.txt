@@ -1,0 +1,2535 @@
+Chunk	Chunk Root	Chunk Dep	Chunk Head
+THE BIRDS	BIRDS	nsubj	OBSERVED
+SOUTHEASTERN TEXAS	TEXAS	pobj	OF
+SOUTHERN ARIZONA	ARIZONA	conj	TEXAS
+SAMUEL N. RHOADS	RHOADS	pobj	BY
+the idea	idea	pobj	With
+the avifauna	avifauna	dobj	investigating
+the southern border	border	pobj	of
+the United States	States	pobj	of
+a series	series	dobj	collectiug
+the birds	birds	pobj	of
+Florida	Florida	pobj	of
+Texas	Texas	appos	Florida
+Arizona	Arizona	conj	Texas
+I	I	nsubj	left
+Philadelphia	Philadelphia	dobj	left
+Jacksonville	Jacksonville	pobj	at
+Florida	Florida	appos	Jacksonville
+the following month	month	pobj	of
+A sojourn	sojourn	nsubjpass	made
+five weeks	weeks	pobj	of
+the southwestern part	part	pobj	in
+the state	state	pobj	of
+considerable collections	collections	nsubj	obtained
+Few facts	facts	nsubjpass	ascertained
+what	what	nsubjpass	written
+the bird life	life	pobj	on
+this region	region	pobj	of
+it	it	nsubj	is
+my intention	intention	attr	is
+detail	detail	pobj	in
+this part	part	pobj	of
+the trip	trip	pobj	of
+I	I	nsubj	arrived
+Corpus Christi	Christi	pobj	at
+Texas	Texas	appos	Christi
+a three weeks' stay	stay	nsubjpass	made
+I	I	nsubj	journeyed
+Tucson	Tucson	pobj	to
+Arizona	Arizona	appos	Tucson
+June	June	pobj	of
+birds	birds	dobj	collecting
+the immediate vicinity	vicinity	pobj	in
+the nineteenth	nineteenth	pobj	until
+I	I	nsubj	took
+stage	stage	dobj	took
+Oracle	Oracle	pobj	for
+a posthamlet	posthamlet	appos	Oracle
+the oak belt	belt	pobj	in
+the foothills	foothills	pobj	among
+the Catalina Mountains	Mountains	pobj	of
+Avas	Avas	dobj	Collecting
+that vicinity	vicinity	pobj	in
+July 2nd	2nd	pobj	until
+the mountains	mountains	nsubjpass	ascended
+I	I	nsubj	took
+my abode	abode	dobj	took
+a week	week	pobj	for
+a lumber camp	camp	pobj	in
+the pines	pines	pobj	among
+Mt.	Mt.	pobj	of
+Lemon	Lemon	pobj	"
+"
+an elevation	elevation	pobj	at
+between 7000 and 8000 ft	ft	pobj	of
+.	.	pobj	of
+the summit	summit	pobj	below
+that mountain	mountain	pobj	of
+The birds	birds	nsubj	received
+southern Texas	Texas	pobj	of
+the vicinity	vicinity	pobj	in
+Corpus Christi	Christi	pobj	of
+no small amount	amount	dobj	received
+attention	attention	pobj	of
+naturalists	naturalists	pobj	from
+Mr. Beckham	Beckham	nsubj	enumerates
+eight publications	publications	dobj	enumerates
+this subject	subject	pobj	on
+a few months	months	pobj	Within
+Mr. Chapman	Chapman	nsubj	published
+a paper	paper	dobj	published
+the results	results	dobj	giving
+his observations	observations	pobj	of
+exactly the same ground	ground	pobj	on
+I	I	nsubj	covered
+fact	fact	pobj	In
+I	I	nsubjpass	conducted
+Mr. Priour	Priour	pobj	by
+who	who	nsubj	acted
+my guide	guide	pobj	as
+the same collecting grounds	grounds	pobj	to
+the immediate vicinity	vicinity	pobj	in
+Corpus Christi	Christi	pobj	of
+the Nueces River	River	pobj	along
+1 Mr. Rhoads	Rhoads	nsubj	presented
+his entire collection	collection	dobj	presented
+about one thou.sand skins	skins	dobj	numbering
+the Academy	Academy	pobj	to
+Natural Sciences	Sciences	pobj	of
+Philadelphia	Philadelphia	pobj	of
+The Texas series	series	nsubj	numbers
+"
+specimens"	specimens	appos	numbers
+Mr. Rhoads' absence	absence	pobj	to
+Philadelphia	Philadelphia	pobj	from
+this paper	paper	dobj	preparing
+he	he	nsubj	was
+a critical examination	examination	dobj	make
+the specimens	specimens	pobj	of
+his request	request	pobj	at
+I	I	nsubj	added
+utiles	utiles	dobj	added
+any peculiarities	peculiarities	dobj	exhibited
+these annotations	annotations	nsubjpass	followed
+my initials	initials	pobj	by
+"
+ Witmer Stone"	Stone	ROOT	Stone
+.	.	appos	Proc
+U. S. Nat	Nat	appos	Proc
+Mus	Mus	appos	Nat
+Vol.	.	appos	Proc
+Bull	Bull	appos	Proc
+Am	Am	appos	Proc
+Vol	Vol	appos	Proc
+.	.	appos	Vol
+Ill No	No	appos	Proc
+.	.	appos	No
+Bay svliich lie	lie	nsubj	visited
+Mr. Chapman	Chapman	pobj	with
+The interval	interval	nsubj	gave
+our visits	visits	pobj	between
+opportunity	opportunity	dobj	gave
+a decided readjustment	readjustment	pobj	for
+the bird fauna	fauna	pobj	of
+migration	migration	pobj	to
+the nesting	nesting	conj	migration
+resident species	species	pobj	of
+Mr. Beckham's personal observations	observations	nsubj	terminated
+Texan birds	birds	pobj	of
+March	March	pobj	in
+I	I	nsubj	discover
+our observers	observers	pobj	of
+data	data	dobj	recorded
+the early summer birds	birds	pobj	to
+the Corpus Christi region	region	pobj	of
+Dresser's summer notes	notes	conj	recorded
+the vicinity	vicinity	pobj	to
+San Antonio	Antonio	pobj	of
+Further description	description	nsubj	be
+the region	region	pobj	of
+the following notes	notes	pobj	in
+the aforementioned authors	authors	nsubj	written
+the subject	subject	pobj	on
+the annotated list	list	pobj	with
+the following observations	observations	nsubjpass	made
+nearly all the nonresident birds	birds	nsubj	passed
+a drouth	drouth	nsubj	existed
+severity	severity	pobj	in
+Mr. Beckman's stay	stay	pobj	during
+my experience	experience	nsubj	agrees
+Mr. Chapman	Chapman	pobj	of
+birds	birds	nsubj	were
+Nearly half	half	nsubj	feeding
+the birds	birds	pobj	of
+their young	young	dobj	feeding
+my departure	departure	pobj	before
+many cases	cases	pobj	in
+all the more conspicuous the fact	fact	dobj	rendered
+many boreal species	species	nsubj	lingered
+the water birds	birds	pobj	among
+I	I	nsubj	received
+corroboration	corroboration	dobj	received
+various ways	ways	pobj	in
+the annual overstepping	overstepping	nsubj	is
+fauual limits	limits	pobj	of
+many species	species	pobj	by
+a more southerly district	district	pobj	to
+their subsequent disappearance	disappearance	conj	overstepping
+the end	end	pobj	toward
+the spring migration	migration	pobj	of
+a marked feature	feature	attr	is
+Corpus Christi	Christi	pobj	at
+These birds	birds	nsubj	return
+due time	time	pobj	in
+their ancestral haunts	haunts	pobj	to
+Mexico	Mexico	pobj	in
+the breeding season	season	nsubj	begins
+what extent	extent	pcomp	To
+this movement	movement	nsubjpass	held
+the sexual excitability	excitability	pobj	to
+ignorance	ignorance	conj	excitability
+the country	country	pobj	of
+birds	birds	pobj	by
+the first year	year	pobj	of
+the  faunal inosculation	inosculation	pobj	for
+Beckham	Beckham	nsubj	speaks
+I	I	nsubj	am
+the observations	observations	pobj	from
+collectors	collectors	pobj	of
+this region	region	pobj	in
+it	it	nsubj	seems
+several species	species	nsubjpass	represented
+the avifauna	avifauna	pobj	in
+Corpus Christi	Christi	pobj	of
+strangers	strangers	attr	were
+it	it	pobj	to
+the position	position	pobj	to
+this territory	territory	nsubj	forming
+it	it	nsubj	were
+the keystone	keystone	attr	were
+three great faunal arches	arches	pobj	of
+time	time	pobj	in
+the birds	birds	nsubj	approached
+their respective regions	regions	pobj	from
+a slight change	change	nsubj	precipitate
+physical or climatic conditions	conditions	pobj	in
+more intimate relations	relations	dobj	precipitate
+Precisely such a state	state	nsubj	happened
+affairs	affairs	pobj	of
+the intermingling	intermingling	nsubj	become
+races	races	pobj	of
+species	species	conj	races
+new territory	territory	pobj	on
+a cause	cause	dobj	seeking
+I	I	nsubjpass	led
+the belief	belief	pobj	to
+it	it	nsubj	is
+the introduction	introduction	pobj	to
+cattle	cattle	pobj	of
+we	we	nsubj	remember
+the growth	growth	nsubj	is
+dense mesquite chaparral	chaparral	pobj	of
+such a marked feature	feature	dobj	forms
+the landscape	landscape	pobj	in
+southeastern Texas	Texas	pobj	of
+the tithe	tithe	pobj	upon
+open prairie	prairie	pobj	of
+the grazing	grazing	pobj	to
+immense herds	herds	pobj	of
+cattle	cattle	pobj	of
+their search	search	pobj	in
+subsistence	subsistence	pobj	for
+the prairie fire	fire	dobj	robbed
+its fuel	fuel	pobj	of
+the same time	time	pobj	at
+the seeds	seeds	dobj	distributed
+mesquite	mesquite	pobj	of
+other arborescent shrubs	shrubs	conj	mesquite
+this statement	statement	nsubj	appear
+it	it	nsubj	seems
+The comparatively sudden conversion	conversion	nsubj	aflbrd
+many square miles	miles	pobj	of
+debatable ornithological ground	ground	pobj	of
+prairie	prairie	pobj	from
+brushland	brushland	pobj	to
+this manner	manner	pobj	in
+just such inducements	inducements	dobj	aflbrd
+arboreal birds	birds	pobj	to
+the further extension	extension	pobj	in
+their winter range	range	pobj	of
+the north	north	pobj	from
+their summer range	range	conj	range
+the south	south	pobj	from
+the other hand	hand	pobj	On
+the true prairie lands	lands	nsubj	diminish
+the more strictly plainhaunting species	species	nsubj	disappear
+A comparison	comparison	nsubj	tends
+the relative abundance	abundance	pobj	of
+the species	species	pobj	of
+Beckham	Beckham	pobj	by
+Mr. Chapman	Chapman	pobj	by
+myself	myself	conj	Chapman
+"
+Even in 1887 the date"	date	ROOT	date
+Beckham's observations	observations	pobj	of
+Dr. Havard	Havard	nsubj	reports
+the mesquite	mesquite	dobj	reports
+Beckham	Beckham	nsubj	characterizes
+it	it	dobj	characterizes
+a dreary waste	waste	dobj	characterizes
+The growth	growth	nsubj	tally
+mesquite	mesquite	pobj	of
+the surrounding country	country	pobj	in
+the faunal changes	changes	pobj	with
+it	it	nsubjpass	borne
+mind	mind	pobj	in
+the overstocking	overstocking	nsubj	aflTect
+pasture	pasture	pobj	of
+cattle	cattle	pobj	with
+the consequent efiect	efiect	conj	overstocking
+a previously superabundant pasturage	pasturage	pobj	upon
+the country	country	dobj	aflTect
+city limits	limits	pobj	from
+a comparatively small area	area	pobj	beyond
+the city	city	dobj	surrounding
+the virgin prairie	prairie	nsubj	retained
+its original features	features	dobj	retained
+this reason	reason	pobj	For
+birds	birds	nsubj	were
+drouth	drouth	pobj	because
+lack	lack	pobj	for
+shelter	shelter	pobj	of
+food	food	conj	shelter
+arboreal habits	habits	pobj	of
+Many insectivorous birds	birds	nsubjpass	found
+localities	localities	pobj	in
+water	water	nsubj	is
+the form	form	pobj	in
+dew	dew	pobj	of
+the juicy nature	nature	pobj	to
+their food	food	pobj	of
+they	they	nsubj	enjoy
+life	life	dobj	enjoy
+the luxury	luxury	pobj	without
+a drink	drink	pobj	of
+It	It	nsubj	seems
+the late increase	increase	nsubj	is
+passerine birds	birds	pobj	of
+this part	part	pobj	in
+Texas	Texas	pobj	of
+an excess	excess	pobj	to
+rainfall	rainfall	pobj	of
+the absence	absence	pobj	to
+droughts	droughts	pobj	of
+late years	years	pobj	in
+the vast extension	extension	pobj	to
+treecovered areas	areas	pobj	of
+the prairie	prairie	pobj	into
+the increase	increase	conj	extension
+insect and vegetable food	food	pobj	of
+this cause	cause	pobj	from
+these conditions	conditions	nsubj	apply
+the increase	increase	pobj	to
+individuals	individuals	pobj	of
+old forms	forms	pobj	among
+the additional species	species	pobj	to
+the Corpus Christi fauna	fauna	pobj	to
+The subjoined list	list	nsubj	includes
+all birds	birds	dobj	includes
+me	me	pobj	by
+those species	species	appos	birds
+I	I	nsubj	obtain
+specimens	specimens	dobj	obtain
+an asterisk	asterisk	pobj	by
+I	I	nsubj	wish
+my grateful indebtedness	indebtedness	dobj	acknowledge
+Mr. Witmer Stone Conservator	Conservator	pobj	to
+the Ornithological Section	Section	pobj	of
+the Academy	Academy	pobj	of
+Natural Sciences	Sciences	pobj	of
+Philadelphia	Philadelphia	pobj	of
+the collection	collection	pobj	for
+my absence	absence	pobj	during
+invaluable aid	aid	pobj	for
+the identification	identification	pobj	in
+the material	material	pobj	of
+my notes	notes	dobj	revising
+Texas	Texas	dobj	includes
+"1.
+Larus atricilla Linn"	Linn	dobj	includes
+"
+Laughing Gull"	Gull	dobj	includes
+Corpus Christi Bay	Bay	pobj	about
+Nearly a third	third	nsubj	retained
+the young autumnal plumage	plumage	dobj	retained
+last year	year	pobj	of
+Sw	Sw	appos	franklinii
+Five or six individuals	individuals	nsubjpass	noted
+this exquisite gull	gull	pobj	of
+one male	male	nsubjpass	taken
+June	June	pobj	of
+The female	female	nsubj	escaped
+it	it	dobj	accompanied
+me	me	dobj	escaped
+The presence	presence	nsubj	seems
+this species	species	pobj	of
+so late a date	date	pobj	at
+Mr. Prion r's assertion	assertion	dobj	corroborate
+The flycatching habits	habits	nsubj	are
+Franklin's Gull	Gull	pobj	of
+I	I	nsubj	seen
+a pair	pair	nsubj	rise
+a sandbar	sandbar	pobj	from
+the mainland	mainland	pobj	to
+the chaparral	chaparral	dobj	beat
+a most systematic manner	manner	pobj	in
+hours	hours	pobj	for
+a stretch	stretch	pobj	at
+gunshot	gunshot	pobj	of
+company	company	pobj	in
+Henry's Nighthawk	Nighthawk	pobj	with
+the superabundant insect food	food	appos	Nighthawk
+their way	way	pobj	in
+"3.
+Gelochelidon nilotica Hasselq"	Hasselq	dobj	"
+"
+Gullbilled Tern	Tern	dobj	includes
+the marshes	marshes	pobj	on
+"4.
+Sterna tschegrava Lepech"	Lepech	dobj	includes
+Caspian Tern	Tern	dobj	includes
+Nueces Bay	Bay	pobj	in
+the genus	genus	pobj	of
+its northern congeners	congeners	pobj	like
+the presence	presence	dobj	resent
+an intruder	intruder	pobj	of
+its breeding grounds	grounds	pobj	on
+Sterna antillarum	antillarum	ROOT	antillarum
+Least Tern	Tern	attr	"
+"
+It	It	nsubj	is
+no one	one	nsubj	recorded
+the Least Tern	Tern	dobj	recorded
+Texas	Texas	pobj	in
+Priour	Priour	nsubj	assured
+me	me	dobj	assured
+the destruction	destruction	pobj	before
+Merrill	Merrill	nsubj	found
+SenneU	SenneU	conj	Merrill
+it	it	nsubj	breeding
+sandbars	sandbars	pobj	on
+the Rio Grande	Grande	pobj	in
+Striker	Striker	nsubj	was
+he	he	nsubj	calls
+it	it	dobj	calls
+I	I	nsubj	found
+several skins	skins	dobj	found
+this species	species	pobj	of
+some thousand millinery pelts	pelts	pobj	among
+this locality	locality	pobj	in
+Messrs. Fancher	Fancher	pobj	by
+Noakes	Noakes	conj	Fancher
+Corpus Christi	Christi	pobj	of
+one occasion	occasion	pobj	On
+I	I	nsubj	noted
+a flock	flock	dobj	noted
+a dozen	dozen	pobj	of
+the town	town	pobj	near
+I	I	nsubj	went
+the bay	bay	pobj	to
+the action	action	pobj	From
+these birds	birds	pobj	of
+I	I	nsubj	judge
+they	they	nsubj	made
+their headquarters	headquarters	dobj	made
+Hydrochelidon nigra	nigra	attr	"
+"
+surinamensis Gmel	Gmel	appos	nigra
+American Black Tern	Tern	appos	nigra
+this bird	bird	dobj	Saw
+the mouth	mouth	pobj	at
+the Nueces River	River	pobj	of
+one Avas	Avas	nsubj	secured
+a full plumaged breeding male	male	dobj	secured
+nearly a dozen	dozen	dobj	Saw
+This species	species	nsubj	is
+the vicinity	vicinity	pobj	from
+Corpus Christi	Christi	pobj	of
+Rhynchops nigra Linn	Linn	attr	"
+"
+"Abundant and breeding.
+9.
+Phalacrocorax mexicanus Brandt"	Brandt	attr	"
+"
+Mexican Cormorant	Cormorant	attr	"
+"
+An immense flock	flock	nsubjpass	found
+these birds	birds	pobj	of
+the peninsular flats	flats	pobj	on
+the margin	margin	pobj	around
+an old pond	pond	pobj	of
+One individual	individual	nsubj	was
+this flock	flock	pobj	from
+a young male	male	attr	was
+the year	year	pobj	of
+These birds	birds	nsubj	done
+breeding	breeding	dobj	done
+they	they	nsubj	breed
+I	I	nsubj	was
+Anas fulvigula maculosa Senn	Senn	appos	10
+Mottled Duck	Duck	appos	Senn
+the commonest representative	representative	attr	is
+its family	family	pobj	of
+Nueces Bay	Bay	pobj	on
+June	June	pobj	in
+it	it	nsubj	breeds
+the marshes	marshes	pobj	in
+Spatula clypeata Linn	Linn	appos	11
+Shoveller	Shoveller	appos	Linn
+the mouth	mouth	pobj	at
+the Nueces River	River	pobj	of
+Ajaja ajaja Linn	Linn	appos	72
+Roseate Spoonbill	Spoonbill	appos	Linn
+the 28th	28th	pobj	On
+May	May	pobj	of
+Mr. Priour	Priour	pobj	by
+I	I	nsubj	sailed
+the mouth	mouth	pobj	to
+the Nueces River	River	pobj	of
+search	search	pobj	in
+these birds	birds	pobj	of
+a distance	distance	pobj	At
+two miles	miles	pobj	of
+a couple	couple	nsubjpass	descried
+large flocks	flocks	pobj	of
+a dull rosy streak	streak	pobj	as
+the water's edge	edge	pobj	along
+We	We	nsubj	approached
+the aid	aid	pobj	with
+a glass	glass	pobj	of
+an excellent survey	survey	dobj	make
+the flocks	flocks	pobj	of
+the act	act	pobj	in
+they	they	nsubj	noticed
+our jiresence	jiresence	dobj	noticed
+about two hundred yards	yards	pobj	within
+them	them	pobj	of
+the whole company	company	nsubj	raised
+four or five hundred individuals	individuals	pobj	of
+their heads	heads	dobj	raised
+the sudden righting	righting	nsubjpass	succeeded
+a most interesting series	series	pobj	by
+manoeuvres	manoeuvres	pobj	of
+a contraction	contraction	pobj	of
+filling	filling	conj	contraction
+all the gaps	gaps	pobj	of
+the line	line	pobj	in
+a rush	rush	pobj	with
+wiugs	wiugs	pobj	of
+a glorious burst	burst	appos	rush
+color	color	pobj	of
+they	they	nsubj	arose
+Many other detachments	detachments	nsubj	joined
+them	them	dobj	joined
+the entire flock	flock	nsubj	numbered
+some two miles	miles	dobj	alighted
+their former feeding ground	ground	pobj	to
+these birds	birds	pobj	of
+The adults	adults	nsubj	shedding
+their brilliant scarlet patches	patches	dobj	shedding
+their skins	skins	nsubj	bristling
+pin feathers	feathers	pobj	with
+the whitish plumage	plumage	pobj	in
+the first year	year	pobj	of
+Mr. Priour	Priour	pobj	to
+the Spoonbill	Spoonbill	nsubj	attains
+its maximum plumage development	development	dobj	attains
+January	January	pobj	in
+he	he	nsubj	was
+a second moult	moult	pobj	to
+December	December	pobj	in
+a wearing	wearing	attr	is
+the tips	tips	pobj	of
+the feathers	feathers	pobj	of
+Agelaius	Agelaius	pobj	in
+other birds	birds	conj	Agelaius
+The Spoonbills	Spoonbills	nsubj	leave
+the vicinity	vicinity	dobj	leave
+Corpus Christi	Christi	pobj	of
+February	February	pobj	of
+a few stragglers	stragglers	nsubj	remain
+none	none	nsubjpass	known
+the Texas coast	coast	pobj	on
+late years	years	pobj	of
+This state	state	nsubj	is
+affairs	affairs	pobj	of
+their persecution	persecution	pobj	to
+the destruction	destruction	pobj	to
+the forests	forests	pobj	of
+Corjus Christi	Christi	pobj	between
+Brownsville	Brownsville	conj	Christi
+the river mouths	mouths	pobj	nearer
+this formerly abundant species	species	dative	affording
+suitable rookery sites	sites	dobj	affording
+It	It	nsubj	is
+the flock	flock	pobj	of
+birds	birds	pobj	of
+Nueces Bay	Bay	pobj	on
+the coast	coast	pobj	on
+Brownsville	Brownsville	pobj	of
+comparative safety	safety	pobj	in
+they	they	nsubj	return
+this spot	spot	pobj	to
+the summer and early winter months	months	dobj	spend
+considerable numbers	numbers	pobj	in
+the latter part	part	pobj	as
+April	April	pobj	of
+their maximum numbers	numbers	dobj	attaining
+the latter part	part	pobj	in
+May.	May.	pobj	of
+Their evident attachment	attachment	nsubj	be
+the vicinity	vicinity	pobj	to
+Nueces Bay	Bay	pobj	of
+the facilities	facilities	pobj	to
+it	it	nsubj	affords
+them	them	dobj	affords
+the great item	item	pobj	in
+food supply	supply	pobj	of
+the reception	reception	nsubj	is
+these birds	birds	dobj	accorded
+Corpus Christi gunners	gunners	pobj	by
+"13.
+Botaurus"	Botaurus	attr	"
+"
+Least Bittern	Bittern	appos	Botaurus
+this bird	bird	nsubjpass	overlooked
+former observers	observers	pobj	by
+I	I	nsubj	conceive
+the marshes	marshes	pobj	in
+Nueces Bay	Bay	pobj	of
+them	them	pobj	of
+distended ovaries	ovaries	pobj	with
+Ardea herodias Linn	Linn	appos	14
+Ardea egretta GmeL American Egret	Egret	appos	15
+Merrill	Merrill	nsubj	found
+Sennet	Sennet	conj	Merrill
+a lagoon heronry	heronry	pobj	in
+the Rio Granie	Granie	pobj	on
+Ardea tricolor ruficoUis Gosse	Gosse	appos	16
+these birds	birds	pobj	of
+the reeds	reeds	pobj	among
+the mouth	mouth	pobj	at
+the Nueces River	River	pobj	of
+Ardea virescens Linn Green Heron	Heron	appos	17
+"
+Night Heron"	Heron	ROOT	Heron
+Immense numbers	numbers	nsubjpass	found
+this species	species	pobj	of
+the tali brake	brake	pobj	in
+the Nueces River mouth	mouth	pobj	at
+The flocks	flocks	nsubjpass	composed
+every stage	stage	pobj	in
+plumage	plumage	pobj	of
+some distant rookery	rookery	pobj	from
+no signs	signs	nsubjpass	found
+nests	nests	pobj	of
+the immediate vicinity	vicinity	pobj	in
+Aud	Aud	appos	elegans
+A rail	rail	nsubjpass	flushed
+this species	species	pobj	of
+the peninsular marsh	marsh	pobj	in
+the city	city	pobj	near
+I	I	nsubj	failed
+it	it	dobj	secure
+Avocet	Avocet	attr	"
+"
+Pairs	Pairs	nsubjpass	seen
+scattered individuals	individuals	conj	Pairs
+my stay	stay	pobj	throughout
+Mr. Priour	Priour	nsubj	states
+they	they	nsubj	breed
+the vicinity	vicinity	pobj	in
+Blacknecked Stilt	Stilt	appos	Miill
+This clamorous and uneasy bird	bird	nsubj	breeds
+suitable places	places	pobj	in
+Corpus Christi	Christi	pobj	near
+Nests	Nests	nsubjpass	found
+eggs	eggs	pobj	with
+"
+Pectoral Sandpiper"	Sandpiper	ROOT	Sandpiper
+I	I	nsubj	secured
+"
+23.
+Tringa fuscicollis Vieill.
+Whiterumped Sandpiper"	Sandpiper	ROOT	Sandpiper
+Nearly a dozen	dozen	nsubj	frequented
+these wary birds	birds	pobj	of
+the salt ponds	ponds	dobj	frequented
+the mainland shore	shore	pobj	on
+Nueces Bay	Bay	pobj	of
+This species	species	nsubj	appear
+"24.
+Ereunetes pusillus Linn"	Linn	attr	"
+"
+Semipalmated Sandpiper	Sandpiper	attr	"
+"
+Small flocks	flocks	nsubjpass	seen
+several specimens	specimens	nsubj	secured
+Tetanus melanoleucus Gmel	Gmel	attr	"
+"
+A pair	pair	nsubjpass	shot
+Symphemia semipalmata inornata Brewst	Brewst	appos	26
+AVestern AVillet	AVillet	appos	26
+Two specimens	specimens	nsubjpass	obtained
+this race	race	pobj	to
+Willets	Willets	nsubj	breeding
+limited numbers	numbers	pobj	in
+the city flats	flats	pobj	on
+Numenius longirostris Wils	Wils	conj	breeding
+Longbilled Curlew	Curlew	conj	breeding
+They	They	nsubj	seemed
+breeding	breeding	dobj	done
+Charadrius squatarola Linn	Linn	oprd	seemed
+Blackbellied Plover	Plover	oprd	seemed
+The abundance	abundance	nsubj	is
+this Plover	Plover	pobj	of
+June	June	pobj	of
+this neighborhood	neighborhood	pobj	in
+interest	interest	pobj	of
+Kildeer	Kildeer	appos	29
+"30.
+Aegialitis semipalmata Bonap"	Bonap	appos	29
+Semipalmated Plover	Plover	appos	29
+Aegialitis wilsonia Ord	Ord	appos	3L
+Wilson's Plovei	Plovei	nsubj	Breeding
+the bayside	bayside	pobj	along
+Turnstone	Turnstone	appos	32
+My remarks	remarks	nsubj	apply
+Charadrius squatarola	squatarola	pobj	on
+equal force	force	pobj	with
+the Turnstone	Turnstone	pobj	to
+"
+Wild Turkey"	Turkey	ROOT	Turkey
+I	I	nsubj	spent
+some time	time	dobj	spent
+the vicinity	vicinity	pobj	in
+Mr. Chapman	Chapman	nsubj	secured
+his specimens	specimens	dobj	secured
+well known turkeyroosts	turkeyroosts	dobj	visited
+night	night	pobj	at
+I	I	nsubj	was
+these birds	birds	pobj	of
+"
+Mourning Dove"	Dove	ROOT	Dove
+the United States	States	pobj	in
+I	I	nsubj	found
+this bird	bird	nsubj	abundant
+Texas	Texas	pobj	in
+A dozen to twenty nests	nests	nsubjpass	found
+nearly every acre	acre	pobj	in
+chaparral	chaparral	pobj	of
+two nests	nests	nsubjpass	found
+the same mesquite bush	bush	pobj	in
+"36.
+Cathartes aura Linn"	Linn	attr	"
+"
+Turkey Vulture	Vulture	appos	Linn
+Catharista atrata Bartr	Bartr	appos	Linn
+Black Vulture	Vulture	appos	Linn
+unicinctus harrisi Aud	Aud	appos	Parabuteo
+The commonest species	species	appos	Harris'Hawk
+Buteo lineatus Gmel	Gmel	ROOT	Gmel
+"
+Redshouldered Hawk"	Hawk	ROOT	Hawk
+the Nueces River	River	pobj	up
+Falco sparverius Linn	Linn	ROOT	Linn
+"
+Sparrow Hawk"	Hawk	ROOT	Hawk
+Polyborus cheriway Jacq	Jacq	attr	"
+"
+Pandion haliaetus	haliaetus	ROOT	haliaetus
+carolinensis Gmel	Gmel	appos	haliaetus
+"
+American Osprey"	Osprey	ROOT	Osprey
+two occasions	occasions	pobj	on
+Nueces Bay	Bay	pobj	near
+Barred Owl	Owl	appos	Forst
+the night	night	pobj	On
+my encampment	encampment	pobj	of
+the upper Nueces	Nueces	pobj	on
+the peculiar hooting	hooting	nsubj	indicated
+this owl	owl	pobj	of
+its abundance	abundance	dobj	indicated
+Megascops asio mccallii Cass	Cass	attr	"
+"
+Texan Screech Owl	Owl	appos	Cass
+the timber	timber	nsubj	was
+the form	form	pobj	in
+upland  Mottes	Mottes	pobj	in
+riverside woodlands	woodlands	conj	Mottes
+a retreat	retreat	dobj	afford
+this owl	owl	nsubj	was
+"
+Groovebilled Ani"	Ani	ROOT	Ani
+A specimen	specimen	nsubjpass	collected
+Corjius	Corjius	pobj	of
+Mr. Priour	Priour	pobj	by
+my visit	visit	pobj	to
+June	June	pobj	of
+the same spot	spot	pobj	near
+Geococcyx californianus	californianus	attr	"
+"
+Coccyzus americanus Linn	Linn	attr	"
+"
+Yellowbilled Cuckoo	Cuckoo	appos	Linn
+Ceryle alcyon Linn	Linn	conj	found
+Kingfisher	Kingfisher	conj	found
+Dryobates scalaris bairdi Scl	Scl	conj	found
+Baird's Woodpecker	Woodpecker	conj	found
+"50.
+Melanerpes aurifrons Wagl"	Wagl	attr	"
+"
+Goldenfronted Woodpecker	Woodpecker	appos	Wagl
+Corpus Christi	Christi	pobj	About
+this bird	bird	nsubj	is
+the Flicker	Flicker	nsubj	is
+the east	east	pobj	in
+telegraph joles	joles	pobj	in
+high fence posts	posts	conj	joles
+less settled parts	parts	pobj	In
+they	they	nsubj	are
+Antrostomus carolinensis Gmel	Gmel	attr	is
+Chuck Will's Widow	Widow	appos	Gmel
+A specimen	specimen	nsubjpass	secured
+Corpus Christi	Christi	pobj	near
+April	April	pobj	in
+Mr. Priour	Priour	pobj	by
+I	I	nsubj	heard
+none	none	dobj	heard
+my stay	stay	pobj	during
+This Goatsucker	Goatsucker	nsubjpass	heard
+my stay	stay	pobj	throughout
+Corpus Christi	Christi	pobj	at
+San Patricio	Patricio	pobj	around
+the bird	bird	nsubjpass	perched
+a fence	fence	pobj	on
+I	I	nsubj	traced
+it	it	dobj	traced
+the ground	ground	pobj	to
+the narrow cowpaths	cowpaths	pobj	in
+the chaparral	chaparral	pobj	of
+open glades	glades	pobj	in
+A nest	nest	nsubjpass	found
+a single egg	egg	dobj	containing
+San Patricio	Patricio	pobj	near
+June	June	pobj	of
+Western Nighthawk	Nighthawk	appos	Cass
+All the Xigbthawks	Xigbthawks	nsubj	appear
+Corpus Christi	Christi	pobj	around
+this race	race	pobj	to
+C. texensis	texensis	nsubj	finds
+its southwestern breediug limit	limit	dobj	finds
+Corpus Christi	Christi	pobj	between
+San Antonio	Antonio	conj	Christi
+the migrations	migrations	pobj	during
+texensis	texensis	nsubjpass	noticed
+Priour	Priour	pobj	by
+Corpus Christi	Christi	pobj	of
+Chimney Swift	Swift	appos	Linn
+This species	species	nsubj	is
+another unaccountable omission	omission	attr	is
+Beckham's li.t	li.t	pobj	fi'om
+Though not common quite a number	number	nsubjpass	seen
+Trochilus colubris Linn	Linn	attr	is
+Rubythroated Hummingbird	Hummingbird	attr	is
+Three individuals	individuals	nsubj	seen
+Milvulus forficatus GmeL.	GmeL.	appos	56
+These elegant birds	birds	nsubj	moult
+the summer	summer	pobj	in
+June	June	pobj	of
+their bright colors	colors	nsubj	are
+the tailfeathers	tailfeathers	nsubj	threadbare
+a dozen specimens	specimens	pobj	of
+no exceptions	exceptions	attr	were
+this rule	rule	pobj	to
+the breeding season	season	nsubj	begun
+The worn appearance	appearance	nsubj	is
+the tail	tail	pobj	of
+the necessary switching	switching	pobj	to
+it	it	pobj	of
+the devious pursuit	pursuit	pobj	in
+insect prey	prey	pobj	of
+it	it	nsubjpass	attributed
+the fact	fact	pobj	to
+the birds	birds	nsubj	are
+tieir habits	habits	pobj	in
+I	I	nsubj	observed
+them	them	nsubj	gleaning
+hours	hours	pobj	for
+insects	insects	dobj	gleaning
+the open pastures	pastures	pobj	in
+salt fiats	fiats	conj	pastures
+Corpus Christi	Christi	pobj	near
+hesitation	hesitation	pobj	without
+the short grass	grass	pobj	in
+their food	food	dobj	devour
+I	I	nsubj	observed
+the males	males	nsubj	mounting
+the air	air	pobj	in
+the manner	manner	pobj	after
+Kingbirds	Kingbirds	pobj	of
+"
+57.
+Tyrannus tyrannus Linn"	Linn	ROOT	Linn
+Kingbird	Kingbird	appos	Linn
+The only specimen	specimen	nsubjpass	obtained
+this species	species	pobj	of
+Corpus Christi	Christi	pobj	near
+May 30th	30th	pobj	on
+"
+Myiarchus crinitus Linn"	Linn	ROOT	Linn
+Crested Flycatcher	Flycatcher	appos	Linn
+the Nueces Eiver bottoms	bottoms	pobj	near
+Another .specimen	.specimen	nsubjpass	obtained
+Corpus Christi	Christi	pobj	at
+Mr. Priour	Priour	pobj	from
+The latter specimen	specimen	nsubj	has
+a distinct dark band	band	dobj	has
+the inner margin	margin	pobj	on
+the qu	qu	pobj	of
+the outer tail feathers	feathers	pobj	of
+about e ual	ual	appos	band
+width	width	pobj	in
+the entire outer web	web	pobj	to
+Eastern birds	birds	nsubj	have
+a narrow b.ind	b.ind	dobj	have
+the outer webs	webs	pobj	on
+the rectrices	rectrices	pobj	of
+I	I	nsubj	seen
+one	one	nsubj	marked
+the Texan example	example	pobj	in
+The color	color	nsubj	is
+the under surface	surface	pobj	of
+the body	body	pobj	of
+tins specimen	specimen	pobj	in
+the average	average	dobj	excetding
+eastern specimens	specimens	pobj	of
+this respect	respect	pobj	in
+connection	connection	pobj	In
+the Tjxin species	species	pobj	with
+Myiarchus	Myiarchus	pobj	of
+M. cinernscens	cinernscens	pobj	of
+the Academv Collection	Collection	pobj	in
+Laredo Colin	Colin	pobj	from
+Butcher Au	Au	nsubj	is
+9 j	j	nsubj	is
+inter st	st	pobj	of
+beingthe most eastern record	record	pcomp	as
+this species	species	pobj	of
+I	I	nsubj	seen
+Prof. Cookes'  Bird Migration	Migration	pobj	in
+the Mississippi Valley	Valley	pobj	in
+it	it	nsubjpass	said
+H. F. P.rters	P.rters	pobj	of
+a summer resident	resident	attr	be
+Bonham	Bonham	pobj	at
+Dallas	Dallas	pobj	of
+W. .S.	.S.	ROOT	.S.
+Myiarchus mexicanus Kaup	Kaup	ROOT	Kaup
+Mexican Crested Flycatcher	Flycatcher	ROOT	Flycatcher
+A pair	pair	nsubj	had
+these birds	birds	pobj	of
+a nest	nest	dobj	had
+eggs	eggs	conj	nest
+Priour's house	house	pobj	near
+Contopus borealis Swains	Swains	dobj	had
+Olivesided Flycatcher	Flycatcher	dobj	had
+Two specimens	specimens	nsubjpass	taken
+half a dozen	dozen	nsubj	seen
+They	They	nsubjpass	noticed
+June 8rd	8rd	pobj	as
+Wood Pewee	Pewee	appos	Linn
+its actions	actions	pobj	from
+Corpus Christi	Christi	pobj	about
+Pyrocephalus rubineus mexicanus Scl	Scl	appos	Linn
+Vermilion Flycatcher	Flycatcher	appos	Linn
+The eastern limit	limit	nsubj	lies
+the occurrence	occurrence	pobj	for
+this species	species	pobj	of
+Corpus Christi	Christi	pobj	of
+a country	country	pobj	in
+all appearances	appearances	pobj	to
+the town	town	pobj	nearer
+The Texan Cardinal Pyirhiiloxia	Pyirhiiloxia	nsubj	confines
+a bird	bird	appos	Pyirhiiloxia
+very different habits	habits	pobj	of
+itself	itself	dobj	confines
+the breeding season	season	pobj	during
+exactly the same limits	limits	pobj	to
+it	it	nsubjpass	found
+the winter	winter	pobj	during
+May	May	pobj	of
+Corpus Christi	Christi	pobj	about
+Otocoris alpestris giraudi Ilensh	Ilensh	dobj	confines
+"
+Texan Horned Lark"	Lark	ROOT	Lark
+the Corpus Christi flats	flats	pobj	on
+The song	song	nsubj	is
+this species	species	pobj	of
+the ground	ground	pobj	from
+you	you	pobj	before
+fact	fact	pobj	in
+the bird	bird	nsubj	is
+Dwarf Cowbird	Cowbird	appos	Gmel
+"
+Redwing Blackbird"	Blackbird	ROOT	Blackbird
+the marshes	marshes	pobj	in
+Nueces Bay	Bay	pobj	around
+the scarcity	scarcity	pobj	to
+water	water	pobj	of
+the uplands	uplands	pobj	on
+this bird	bird	nsubjpass	seen
+"
+Meadow Lark"	Lark	ROOT	Lark
+I	I	nsubj	leaving
+Corpus Christi	Christi	dobj	leaving
+a lark	lark	nsubjpass	brought
+me	me	pobj	to
+the flesh	flesh	pobj	in
+the eastern race	race	pobj	to
+I	I	nsubj	was
+Mr. Chapman	Chapman	nsubj	remarked
+Texas and Arizona specimens	specimens	nsubj	are
+Pyrocephalus	Pyrocephalus	pobj	of
+smaller bills	bills	dobj	have
+point	point	pobj	In
+color	color	pobj	of
+considerable difference	difference	attr	is
+a good series	series	pobj	in
+specimens	specimens	pobj	of
+I	I	nsubj	called
+attention	attention	dobj	called
+Acad	Acad	dobj	called
+Nat	Nat	appos	Acad
+Sci	Sci	oprd	called
+Phil	Phil	appos	Sci
+the rosy or pinkishred hue	hue	pobj	to
+Yucatan examples	examples	pobj	of
+the vermilion sliade	sliade	pobj	with
+other localities	localities	pobj	from
+this difference	difference	nsubj	seemed
+I	I	nsubj	was
+a subspecies	subspecies	pobj	as
+an examination	examination	nsubj	shows
+the material	material	pobj	of
+the U. S. National Museum	Museum	pobj	of
+me	me	pobj	to
+Mr. Robert Ridgway	Ridgway	pobj	through
+this idea	idea	nsubjpass	supported
+the series	series	pobj	In
+twentynine Mexican and Central American specimens	specimens	pobj	of
+me	me	pobj	before
+four Yucatan specimens	specimens	nsubj	are
+vermilion	vermilion	attr	is
+a bright pink specimen	specimen	attr	is
+Jalapa	Jalapa	pobj	from
+Two Honduras birds	birds	nsubj	show
+patches	patches	dobj	show
+orangeyellow	orangeyellow	pobj	of
+the breast	breast	pobj	on
+W. S.	S.	nsubj	unable
+it	it	dobj	preserve
+I	I	nsubj	saw
+only three larks	larks	dobj	saw
+my stay	stay	pobj	during
+They	They	nsubj	frequented
+the meadows	meadows	dobj	frequented
+the bay	bay	pobj	of
+I	I	nsubj	feel
+they	they	nsubj	were
+several occasions	occasions	pobj	on
+their song	song	dobj	heard
+the unmistakable quality	quality	dobj	had
+magna	magna	pobj	of
+this respect	respect	pobj	In
+my experience	experience	nsubj	corroborates
+Hancock	Hancock	pobj	of
+whom	whom	nsubj	mistaken
+Beckham	Beckham	nsubj	thinks
+The true state	state	nsubj	is
+aflftiirs	aflftiirs	pobj	of
+winter	winter	pobj	during
+the races	races	nsubj	intermingle
+neglecta	neglecta	dobj	intermingle
+May	May	pobj	of
+ie7edffl	ie7edffl	nsubj	decamps
+the interior	interior	pobj	into
+the true magna	magna	pobj	of
+"
+67.
+Icterus spurius Linn"	Linn	ROOT	Linn
+Orchard Oriole	Oriole	appos	Linn
+A few pairs	pairs	nsubj	found
+Icterus galbula Linn	Linn	oprd	found
+Baltimore Oriole	Oriole	oprd	found
+None	None	nsubj	seen
+A specimen	specimen	nsubj	is
+my visit	visit	pobj	before
+the collection	collection	pobj	in
+Bullock's Oriole	Oriole	appos	Swains
+"Nest with young June 2nd.
+70.
+Quiscalus quiscula aeneus Ridgw"	Ridgw	attr	"
+"
+Bronzed Crackle	Crackle	attr	"
+"
+I	I	nsubj	observed
+this species	species	nsubj	feeding
+the San AntonioRiver	AntonioRiver	pobj	along
+None	None	ROOT	None
+Corpus Christi	Christi	pobj	at
+"
+Greattailed Graekle"	Graekle	ROOT	Graekle
+Corpus Christi	Christi	pobj	at
+this Graekle	Graekle	nsubj	attained
+a far greater abundance	abundance	dobj	attained
+the hackberry mottes	mottes	pobj	in
+the road	road	pobj	along
+San Patricio	Patricio	pobj	to
+Corpus Christi	Christi	pobj	of
+Ammodramus maritimus sennetti Allen	Allen	attr	"
+"
+"
+Texan Seaside Finch"	Finch	ROOT	Finch
+it	it	nsubj	common
+the Nueces Bay flats	flats	pobj	on
+Fresh eggs	eggs	nsubj	procured
+May 30th	30th	appos	day
+Cassin's Finch	Finch	appos	74
+open pasture	pasture	pobj	in
+Corpus Christi	Christi	pobj	from
+"75.
+Melospiza fasciata Gmel"	Gmel	attr	"
+"
+Song Sparrow	Sparrow	appos	Gmel
+none	none	nsubj	secured
+Texas Sparrow	Sparrow	appos	Lawr
+Mr. Chapman	Chapman	nsubj	remarks
+this species	species	nsubj	seem
+the Rio 3rrande	3rrande	pobj	of
+his visit	visit	pobj	to
+Corpus Christi	Christi	pobj	to
+I	I	nsubj	think
+it	it	nsubj	probable
+it	it	nsubj	was
+a member	member	attr	was
+the fauna	fauna	pobj	of
+this region	region	pobj	of
+it	it	nsubj	become
+the facts	facts	pobj	by
+the physical changes	changes	pobj	regarding
+the country	country	dobj	overspread
+recent times	times	pobj	in
+I	I	nsubj	found
+the Texas Sparrow	Sparrow	dobj	found
+home	home	pobj	at
+the Corpus Christi and San Patricio chaparral	chaparral	pobj	in
+their nests	nests	dobj	secured
+fully fledged young	young	conj	nests
+cardinalis canicaudus Chapm	Chapm	appos	Cardinalis
+"
+Graytailed Cardinal"	Cardinal	ROOT	Cardinal
+I	I	nsubj	secured
+a series	series	dobj	secured
+fourteen specimens	specimens	pobj	of
+this newly described race	race	pobj	of
+seven females	females	pobj	including
+five males	males	conj	females
+"
+Texan Cardinal"	Cardinal	ROOT	Cardinal
+the vicinity	vicinity	pobj	in
+the town	town	pobj	of
+winter	winter	pobj	during
+early spring	spring	conj	winter
+this species	species	nsubj	retires
+Painfed Bunting	Bunting	appos	Linn
+"80.
+Piranga rubra Linn"	Linn	attr	"
+"
+Summer Tanager	Tanager	appos	Linn
+Corpus Christi	Christi	pobj	at
+the heavy chaparral	chaparral	pobj	in
+it	it	pobj	of
+the upper Nueces	Nueces	pobj	along
+"81.
+Progne subis Liun"	Liun	attr	"
+"
+Purple Martin Common	Common	appos	Liun
+the vicinity	vicinity	pobj	in
+towns	towns	pobj	of
+Petrochelidon lunifrons	lunifrons	nsubj	Say
+Cliff Swallow	Swallow	conj	Say
+flocks	flocks	pobj	in
+Bam Swallow	Swallow	appos	Bodd
+riparia Linn	Linn	appos	Clivicola
+serripennis Aud	Aud	appos	Stelgidopteryx
+the preceding species	species	pobj	with
+Whiterumped Shrike	Shrike	appos	Swains
+the feathers	feathers	dobj	have
+the head	head	pobj	of
+interscapulum	interscapulum	conj	head
+the breast	breast	pobj	Beneath
+flanks	flanks	conj	breast
+dark longitudinal markings	markings	pobj	with
+W. S.	S.	ROOT	S.
+Two young females	females	nsubj	have
+the bills	bills	nsubj	black
+the tendency	tendency	nsubj	is
+this genus	genus	pobj	in
+a female specimen	specimen	attr	is
+the Academy's Collection	Collection	pobj	in
+Mr. Rhoads birds	birds	pobj	with
+Captain McCown	McCown	pobj	by
+ Ringgold Barracks	Barracks	pobj	at
+Texas	Texas	appos	Barracks
+W. S.	S.	dobj	"
+ "
+Vireo	Vireo	ROOT	Vireo
+olivaceus Linn	Linn	appos	Vireo
+Redeyed Vireo	Vireo	attr	"
+"
+the upper Nueces	Nueces	pobj	on
+they	they	nsubj	breed
+noveboracensis Gmel	Gmel	appos	Vireo
+Whiteeyed Vireo	Vireo	appos	Vireo
+Corpus Christi	Christi	pobj	around
+Vireo bellii Aiul	Aiul	attr	"
+"
+Bell	Bell	appos	Aiul
+Vireo	Vireo	conj	Aiul
+San Patricio	Patricio	pobj	of
+I	I	nsubj	found
+it	it	nsubj	breeding
+Yellow Warbler	Warbler	appos	Gmel
+The only specimen	specimen	nsubjpass	shot
+Corpus Christi	Christi	pobj	near
+noveboracensis notabilis Grinn	Grinn	appos	Seiurus
+One specimen	specimen	nsubjpass	procured
+Geothlypis trichas Linn	Linn	oprd	procured
+Maryland Yellowthroat	Yellowthroat	oprd	procured
+A female	female	nsubj	was
+Priour	Priour	nsubj	affirms
+it	it	nsubj	breeds
+the mouth	mouth	pobj	at
+Nueces Bay	Bay	pobj	of
+Yellowbreasted Chat	Chat	appos	Linn
+these birds	birds	pobj	of
+a singing male	male	appos	one
+Merrill	Merrill	nsubj	found
+Sennett	Sennett	conj	Merrill
+it	it	nsubj	abundant
+Fort Brown	Brown	pobj	at
+a fact	fact	dobj	found
+Beckham	Beckham	nsubj	ionores
+Mr. Priour	Priour	nsubj	thinks
+it	it	nsubj	resident
+Corpus Christi	Christi	pobj	around
+Mimus polyglottos Linn	Linn	oprd	thinks
+Mockingbird	Mockingbird	appos	Linn
+Abundant breeder	breeder	oprd	thinks
+Harporhynchus longirostris sennetti Ridgw	Ridgw	oprd	thinks
+Texas Thrasher	Thrasher	oprd	thinks
+these birds	birds	pobj	of
+the impenetrable chaparral	chaparral	pobj	in
+the toAvn	toAvn	pobj	near
+I	I	nsubj	was
+"
+96.
+Thryothorus ludovicianus Lath"	Lath	ROOT	Lath
+"
+Carolina Wren"	Wren	ROOT	Wren
+the upper Nueces	Nueces	pobj	on
+they	they	nsubj	are
+Thryothorus bewickii bairdi Salv	Salv	ROOT	Salv
+Godm	Godm	appos	Salv
+"
+Baird's AVren"	AVren	ROOT	AVren
+Parus atricristatus Cass	Cass	attr	"
+"
+the Nueces	Nueces	pobj	on
+large timber	timber	pobj	in
+Airiparus flaviceps Sund	Sund	appos	Several
+Verdin	Verdin	appos	Sund
+One specimen	specimen	nsubjpass	secured
+the Verdin	Verdin	pobj	of
+their nests	nests	pobj	of
+the breeding season	season	nsubj	was
+the country	country	dobj	left
+This specimen	specimen	nsubj	seems
+character	character	pobj	in
+the average longicauda	longicauda	pobj	as
+size	size	pobj	in
+typical virens	virens	pobj	from
+W. S.	S.	oprd	seems
+Polioptila caerulea Linn	Linn	oprd	seems
+BluegrajGnatcatcher	BluegrajGnatcatcher	appos	Linn
+various reasons	reasons	pobj	for
+this connection	connection	pobj	in
+Dendrocygna autumnalis Linn	Linn	oprd	seems
+IJlackbcllied Treeduck	Treeduck	oprd	seems
+Dendrocygna fulva Jmel	Jmel	oprd	seems
+Fulvous Treeduck	Treeduck	oprd	seems
+Dresser's and Merrill's lists	lists	pobj	in
+any locality	locality	pobj	from
+the Rio Grande	Grande	pobj	of
+Mr. Priour	Priour	nsubj	says
+the Nueces marshes	marshes	pobj	on
+no conclusive evidence	evidence	dobj	produced
+Columba fiavirostris AVagl	AVagl	attr	"
+"
+Redbilled Pigeon	Pigeon	attr	"
+"
+Another bird	bird	nsubj	straggles
+Priour	Priour	nsubj	assures
+me	me	dobj	assures
+Corpus Christi	Christi	pobj	as
+early spring	spring	pobj	in
+"
+Columbigallina passerina pallescens Baird"	Baird	ROOT	Baird
+Mr. Priour	Priour	nsubj	says
+this dove	dove	nsubj	breeds
+the town	town	pobj	in
+"
+Strix pratincola Bonap"	Bonap	ROOT	Bonap
+"
+Barn Owl"	Owl	ROOT	Owl
+I	I	nsubjpass	shown
+several burrows	burrows	dobj	shown
+the face	face	pobj	in
+a steep bank	bank	pobj	of
+Nueces Bay	Bay	pobj	from
+this owl	owl	nsubjpass	said
+Speotyto cunicularia bypogaea Bonap	Bonap	attr	"
+"
+"
+Burrowing Owl"	Owl	ROOT	Owl
+The complete disappearance	disappearance	nsubj	is
+this common and characteristic bird	bird	pobj	of
+the region	region	pobj	from
+Corpus Christi	Christi	pobj	of
+the usurpation	usurpation	pobj	to
+their prairie domain	domain	pobj	of
+the now ubiquitous chaparral	chaparral	pobj	by
+"
+Ceryle cabanisi Tschudi"	Tschudi	ROOT	Tschudi
+Texan Kingfisher	Kingfisher	appos	Tschudi
+This diminutive species	species	nsubj	seems
+I	I	nsubj	made
+especial search	search	dobj	made
+it	it	pobj	for
+the Nueces	Nueces	pobj	on
+a locality	locality	pobj	in
+it	it	nsubj	occurred
+success	success	pobj	without
+Scott's Seasidesparrow	Seasidesparrow	attr	"
+"
+Mr. Chapman's remarks	remarks	nsubjpass	simplified
+this race	race	pobj	on
+the deductions	deductions	conj	remarks
+the fact	fact	pobj	by
+I	I	nsubj	find
+the  black  Seaside Finches	Finches	pobj	of
+the spot	spot	pobj	at
+that vicinity	vicinity	pobj	in
+special search	search	nsubjpass	made
+I	I	nsubj	am
+Mr. Priour	Priour	nsubj	mistaken
+his belief	belief	pobj	in
+these dark birds	birds	nsubj	remain
+the summer	summer	pobj	during
+my stay	stay	nsubj	covered
+southern Arizona	Arizona	pobj	in
+the period	period	dobj	covered
+June 10th	10th	pobj	between
+July 12th	12th	conj	10th
+the first eight days	days	nsubjpass	spent
+the immediate vicinity	vicinity	pobj	in
+Tucson	Tucson	pobj	of
+Oracle	Oracle	pobj	at
+the liveoak belt	belt	oprd	spent
+the southern slopes	slopes	pobj	on
+the Santa Catalina Mountains	Mountains	pobj	of
+Tucson	Tucson	pobj	of
+part	part	conj	belt
+the remaining ten days	days	pobj	of
+the pineclad region	region	pobj	iu
+their summits	summits	pobj	of
+the Tucson level	level	pobj	above
+the elevation	elevation	pobj	above
+Oracle	Oracle	pobj	at
+The country	country	nsubj	included
+my rambles	rambles	pobj	by
+a larger area	area	pobj	of
+Pima County	County	pobj	iu
+Mr AV.	.	nsubj	"
+"
+a long residence	residence	pobj	during
+the Santa Catalinas	Catalinas	pobj	in
+a more thorough understanding	understanding	pobj	For
+the region	region	pobj	of
+question	question	pobj	in
+an excellent description	description	conj	understanding
+the natural characteristics	characteristics	pobj	of
+this part	part	pobj	of
+Arizona	Arizona	pobj	of
+I	I	nsubj	do
+Mr. Scott's introductory paper	paper	pobj	to
+the Avifauna	Avifauna	pobj	On
+Pinal County	County	pobj	of
+the third volume	volume	pobj	in
+Auk	Auk	dobj	do
+the previous list	list	pobj	in
+an asterisk	asterisk	pobj	by
+the collection	collection	pobj	in
+no sjiecimens	sjiecimens	nsubjpass	secured
+Anas	Anas	ROOT	Anas
+strepera Linn	Linn	ROOT	Linn
+"
+GadwalL"	GadwalL	ROOT	GadwalL
+the upper waters	waters	dobj	exploring
+the Santa Clara	Clara	pobj	of
+Tucson	Tucson	pobj	from
+I	I	nsubj	found
+a duck	duck	dobj	found
+the river	river	pobj	on
+it	it	pobj	at
+it	it	dobj	kill
+it	it	nsubjpass	secured
+another gunner	gunner	pobj	by
+who	who	nsubj	shooting
+the vicinity	vicinity	pobj	in
+I	I	nsubjpass	enabled
+it	it	dobj	identify
+Mr. Scott's account	account	pobj	From
+it	it	nsubj	seems
+a rarity	rarity	attr	be
+a visitant	visitant	pobj	as
+its occurrence	occurrence	nsubj	noteworthy
+summer	summer	pobj	in
+"
+ 2.
+Ardea herodias Linn"	Linn	ROOT	Linn
+"
+Great Blue Heron"	Heron	ROOT	Heron
+"
+Kare"	Kare	ROOT	Kare
+Ardea virescens Linn	Linn	ROOT	Linn
+"
+Green Heron"	Heron	ROOT	Heron
+the valley	valley	pobj	in
+"
+4.
+Gallinula galeata Licht..
+Florida Gallinule"	Gallinule	ROOT	Gallinule
+A pair	pair	attr	"
+"
+Silver Lake	Lake	pobj	on
+Tucson	Tucson	pobj	near
+Fulica americana Gmel	Gmel	appos	pair
+American Coot	Coot	appos	pair
+the Santa Clara River	River	pobj	on
+Kildeer	Kildeer	appos	Linn
+Kot	Kot	appos	Linn
+the Santa Clara Valley	Valley	pobj	in
+"7.
+Callipepla squamata Vig"	Vig	appos	"
+"
+Scaled Partridge	Partridge	appos	Vig
+Wherever found the Scaled Quail	Quail	nsubjpass	associated
+Gambel	Gambel	pobj	with
+the mesas	mesas	pobj	on
+the lower edge	edge	pobj	in
+the oakbelts	oakbelts	pobj	of
+the hotel	hotel	pobj	near
+Oracle	Oracle	pobj	at
+they	they	nsubj	attain
+such an altitude	altitude	dobj	attain
+the breeding season	season	pobj	in
+their usual haunts	haunts	pobj	from
+search	search	pobj	in
+water	water	pobj	of
+June	June	pobj	in
+Tucson	Tucson	pobj	Around
+I	I	nsubj	saw
+none	none	dobj	saw
+this species	species	pobj	of
+I	I	nsubj	reached
+the lower mesa slopes	slopes	dobj	reached
+no time	time	pobj	At
+I	I	nsubj	was
+them	them	dobj	finding
+the oak belt	belt	pobj	below
+numbers	numbers	pobj	In
+they	they	nsubj	ranked
+C gambeli	gambeli	pobj	below
+all the partridges	partridges	pobj	of
+squamata	squamata	attr	being
+"8.
+Callipepla gambeli Nutt"	Nutt	dobj	ranked
+Gambel's Partridge	Partridge	oprd	ranked
+I	I	nsubj	meet
+any flocks	flocks	pobj	with
+this species	species	pobj	of
+the valley	valley	pobj	in
+They	They	nsubj	are
+the oak belt	belt	pobj	in
+the lower pines	pines	pobj	as
+the time	time	pobj	at
+my visit	visit	pobj	of
+their families	families	pobj	about
+size	size	pobj	in
+the newly hatched chick	chick	pobj	from
+half grown birds	birds	pobj	to
+The male bird	bird	nsubj	continues
+its harsh cry	cry	dobj	continues
+the nest	nest	dobj	left
+sufficient reasons	reasons	pobj	for
+this paper	paper	pobj	in
+I	I	nsubj	am
+they	they	nsubj	are
+C. squamata	squamata	nsubj	is
+"9.
+Cyrtonyx montezumae Vig"	Vig	pobj	"
+"
+Massena Partridge	Partridge	appos	Vig
+Three  Fool Quails	Quails	nsubjpass	noticed
+the higher slopes	slopes	pobj	on
+the Catalinas	Catalinas	pobj	of
+them	them	pobj	of
+an elevation	elevation	pobj	at
+7000 feet	feet	pobj	of
+The habits	habits	nsubj	are
+the Massena Partridges	Partridges	pobj	of
+the genus Callipepla	Callipepla	pobj	of
+one	one	dobj	reminding
+our eastern Bobwhite	Bobwhite	pobj	of
+their aptness	aptness	pobj	in
+quick concealment	concealment	pobj	for
+sudden flight	flight	conj	concealment
+mexicana iTould	iTould	appos	gallopavo
+a disastrous fire	fire	pobj	to
+the Mt.	Mt.	pobj	in
+the Catalinas	Catalinas	pobj	of
+this bird	bird	nsubj	abandoned
+that part	part	dobj	abandoned
+the country	country	pobj	of
+I	I	nsubj	see
+it	it	pobj	of
+Bandtailed Pigeon	Pigeon	conj	see
+the oak and pine belts	belts	pobj	throughout
+All nests	nests	nsubj	contained
+egg	egg	conj	young
+Columbigallina passerina pallescens Baird	Baird	appos	12
+the Tucson suburbs	suburbs	pobj	in
+Pseudogryphus californianus Shaw	Shaw	appos	'
+"
+California Vulture"	Vulture	ROOT	Vulture
+I	I	nsubjpass	informed
+Mr. Jack Alwinkle	Alwinkle	pobj	by
+a ranchman	ranchman	appos	Alwinkle
+Oracle	Oracle	pobj	at
+he	he	nsubj	shot
+a  Condor	Condor	dobj	shot
+the summit	summit	pobj	near
+Mount Lemon	Lemon	pobj	of
+It	It	nsubjpass	perched
+a huge rock	rock	pobj	on
+their camp	camp	pobj	from
+the range	range	dobj	test
+his rifle	rifle	pobj	of
+a careless examination	examination	pobj	after
+these facts	facts	pobj	Besides
+his assertion	assertion	conj	facts
+it	it	nsubj	was
+a buzzard	buzzard	pobj	as
+my informant	informant	nsubj	added
+it	it	nsubj	was
+he	he	nsubj	seen
+California	California	dobj	leaving
+a cowboy	cowboy	pobj	as
+he	he	nsubj	spent
+This statement	statement	nsubj	entitle
+an excellent hunter	hunter	pobj	of
+reliable observer	observer	conj	hunter
+this species	species	dobj	entitle
+a place	place	pobj	to
+the avifauna	avifauna	pobj	in
+Arizona	Arizona	pobj	of
+"
+14.
+Cathartes aura Linn"	Linn	ROOT	Linn
+Turkey Vulture	Vulture	appos	Linn
+4000 ft	ft	pobj	to
+.	.	pobj	up
+Accipiter cooperi Bonap	Bonap	attr	"
+"
+Cooper's Hawk	Hawk	appos	Bonap
+Several couples	couples	nsubj	found
+breeding	breeding	dobj	found
+borealis calurus Cass	Cass	appos	Buteo
+Western Redtail	Redtail	oprd	found
+A pair	pair	oprd	found
+8000 ft	ft	pobj	as
+.	.	pobj	as
+Buteo abbreviatus Caban	Caban	oprd	found
+Zonetailed Hawk	Hawk	oprd	found
+Some halfdozen	halfdozen	nsubj	noted
+9000 ft. elevation	elevation	pobj	at
+A nest	nest	attr	"
+"
+two young Avas	Avas	pobj	with
+a caiion	caiion	pobj	in
+Oracle	Oracle	pobj	near
+a juniper	juniper	pobj	in
+"
+Buteo swainsoni Bonap"	Bonap	ROOT	Bonap
+"
+Swainson's Hawk"	Hawk	ROOT	Hawk
+I	I	nsubj	came
+a pair	pair	pobj	upon
+these Hawks	Hawks	pobj	of
+the bank	bank	pobj	on
+a bend	bend	pobj	at
+the Santa Clara	Clara	pobj	in
+they	they	nsubj	escaped
+I	I	nsubj	secure
+them	them	dobj	secure
+Golden Eagle	Eagle	appos	Linn
+A pair	pair	nsubjpass	observed
+the crags	crags	pobj	on
+the Caiion DeOro	DeOro	dobj	overlook
+the trail	trail	pobj	above
+Mt.	Mt.	pobj	to
+Lemon	Lemon	pobj	"
+"
+"
+20Falco Sparverius Linn"	Linn	ROOT	Linn
+"
+Sparrow Hawk"	Hawk	ROOT	Hawk
+Audubon's Caracara	Caracara	attr	"
+"
+Tucson	Tucson	pobj	near
+the species Avas	Avas	nsubj	noted
+Oracle	Oracle	pobj	near
+"
+Spotted Owl"	Owl	ROOT	Owl
+the opposite side	side	pobj	On
+the Santa Clara valley	valley	pobj	of
+a point	point	pobj	at
+a rocky hill	hill	dobj	rises
+whose precipitous sides	sides	nsubj	front
+the city	city	dobj	front
+Tuscon	Tuscon	pobj	of
+I	I	nsubj	found
+these owls	owls	pobj	of
+One pair	pair	nsubjpass	noticed
+some large boulders	boulders	pobj	on
+they	they	nsubj	were
+the full glare	glare	pobj	in
+the sun	sun	pobj	of
+they	they	nsubj	appear
+the appearance	appearance	pobj	From
+the surroundings	surroundings	pobj	of
+it	it	nsubj	seemed
+these boulders	boulders	nsubj	were
+their regular stands	stands	attr	were
+a nest	nest	nsubjpass	found
+a brood	brood	nsubjpass	raised
+the recesses	recesses	pobj	in
+a narrow ledge	ledge	pobj	of
+they	they	nsubj	sitting
+Megascops	Megascops	oprd	seemed
+asio trichopsis Wagl	Wagl	appos	Megascops
+Mexican Screech Owl	Owl	appos	Megascops
+A young bird	bird	nsubjpass	found
+this variety	variety	pobj	of
+the chaparral	chaparral	pobj	in
+Tucson	Tucson	pobj	near
+"24.
+Bubo virginianus subarcticus Hoy"	Hoy	oprd	seemed
+Western Horned Owl	Owl	oprd	seemed
+They	They	nsubj	are
+the lowlands	lowlands	pobj	in
+"
+Elf Owl"	Owl	ROOT	Owl
+none	none	nsubjpass	met
+Geococcyx californianus	californianus	dobj	met
+Road Runner	Runner	appos	californianus
+the oakbelt	oakbelt	pobj	near
+the vicinity	vicinity	pobj	in
+Tucson	Tucson	pobj	of
+I	I	nsubj	observed
+them	them	dobj	observed
+a considerable distance	distance	pobj	at
+Oracle	Oracle	pobj	above
+Kingfisher	Kingfisher	appos	Linn
+Tucson	Tucson	pobj	around
+Dryobates villosus hyloscopus Cab	Cab	appos	Linn
+Cabanis Woodpecker	Woodpecker	appos	Linn
+8000 feet elevation	elevation	pobj	at
+the pines	pines	pobj	among
+Dryobates scalaris bairdi Scl	Scl	appos	29
+the oakbelt	oakbelt	pobj	in
+you	you	nsubj	descend
+the plain	plain	pobj	toward
+Califomian Woodpecker	Woodpecker	attr	"
+"
+the oakbelt	oakbelt	pobj	from
+9000 feet elevation	elevation	pobj	to
+Melanerpes uropygialis Baird	Baird	dobj	"
+"
+the giant cacti	cacti	pobj	with
+"
+32.
+Colaptes cafer Gmel"	Gmel	ROOT	Gmel
+Redshafted Flicker	Flicker	appos	Gmel
+the pine woods	woods	pobj	in
+"
+33.
+Colaptes chrysoides Malh"	Malh	ROOT	Malh
+"
+Gilded Flicker"	Flicker	ROOT	Flicker
+the valley	valley	pobj	in
+Phalsenoptilus nuttalli Aud	Aud	nsubj	Abundant
+Poorwill	Poorwill	appos	Aud
+the oak belt	belt	pobj	in
+texensis Lawr	Lawr	appos	Cbordeiles
+I	I	nsubj	found
+these birds	birds	nsubj	abundant
+the immediate vicinity	vicinity	pobj	in
+Tucson	Tucson	pobj	of
+They	They	nsubj	frequented
+the niesquite	niesquite	dobj	frequented
+preference	preference	pobj	in
+more open tracts	tracts	pobj	to
+their time	time	pobj	of
+the midday hours	hours	pobj	during
+the chaparral bushes	bushes	pobj	among
+food	food	pobj	for
+the shade	shade	pobj	in
+a bush	bush	pobj	of
+cactus	cactus	conj	bush
+The song	song	nsubj	has
+this bird	bird	pobj	of
+a wouderful resemblance	resemblance	dobj	has
+Megascope	Megascope	pobj	of
+It	It	nsubjpass	uttered
+both sexes	sexes	pobj	by
+they	they	nsubj	be
+the ground	ground	pobj	on
+the wing	wing	pobj	on
+the quality	quality	nsubj	is
+these notes	notes	pobj	of
+I	I	nsubj	stumbled
+the birds	birds	pobj	of
+notice	notice	dobj	taking
+them	them	pobj	of
+the search	search	pobj	in
+a supposed owl	owl	pobj	for
+I	I	nsubj	imagined
+a distant tree	tree	pobj	in
+no occasion	occasion	pobj	On
+they	they	nsubj	make
+any other sound	sound	dobj	make
+their intimate relationship	relationship	dobj	show
+our C. virginianus	virginianus	pobj	to
+Micropus melanoleucus Bairtl	Bairtl	appos	36
+A pair	pair	nsubj	breeding
+these birds	birds	pobj	of
+the cliffs	cliffs	pobj	in
+I	I	nsubj	found
+I	I	nsubj	make
+the nature	nature	pobj	because
+the ground	ground	pobj	of
+thorough enough search	search	dobj	make
+the whereabouts	whereabouts	dobj	discover
+their nest	nest	pobj	of
+I	I	nsubj	saw
+frequent companies	companies	nsubj	skimming
+these birds	birds	pobj	of
+various places	places	pobj	in
+the Santa Clara Valley	Valley	pobj	along
+the waters	waters	dobj	skimming
+Silver Lake	Lake	pobj	of
+air	air	pobj	in
+one	one	dobj	reminding
+both situations	situations	pobj	in
+the Chimney Swift	Swift	pobj	of
+my ascent	ascent	pobj	of
+Mount Lemon	Lemon	pobj	of
+this species	species	pobj	of
+the summit	summit	pobj	about
+company	company	pobj	in
+Violetgreen Swallows	Swallows	pobj	with
+Rivoli Hummingbird	Hummingbird	appos	Swains
+my arrival	arrival	pobj	after
+the Catalina pinebelt	pinebelt	pobj	in
+I	I	nsubj	noted
+a large hummer	hummer	dobj	noted
+the yellow columbines	columbines	pobj	among
+a little canon	canon	pobj	of
+the camp	camp	pobj	near
+I	I	nsubj	see
+it	it	dobj	see
+the day	day	pobj	until
+my departure	departure	pobj	of
+the mountains	mountains	pobj	from
+I	I	nsubj	found
+it	it	dobj	found
+the same place	place	pobj	in
+it	it	nsubj	found
+it	it	nsubj	be
+an adult male	male	attr	be
+the above species	species	pobj	of
+the most northerly record	record	attr	is
+the Rivoli Hummingbird	Hummingbird	pobj	for
+the time	time	pobj	considering
+its capture	capture	pobj	of
+it	it	nsubj	seems
+it	it	nsubj	breeding
+the vicinity	vicinity	pobj	in
+Muls	Muls	oprd	"
+ "
+"
+Blackchinned Hummingbird"	Hummingbird	ROOT	Hummingbird
+the Catalinas	Catalinas	pobj	in
+"
+One shot"	shot	ROOT	shot
+Tucson	Tucson	pobj	at
+Oracle	Oracle	pobj	at
+The love antics	antics	nsubj	are
+this bird	bird	pobj	of
+an open space	space	dobj	Selecting
+the trees	trees	pobj	among
+the immediate vicinity	vicinity	pobj	in
+its nest	nest	pobj	of
+the male	male	nsubj	starts
+his perch	perch	pobj	from
+the willows	willows	pobj	among
+a shrill continuous trilling note	note	dobj	uttering
+a strange proportion	proportion	dobj	bears
+its tone	tone	pobj	in
+quickness	quickness	conj	tone
+the varying rapidity	rapidity	pobj	to
+flight	flight	pobj	of
+the farthest limits	limits	dobj	reached
+its chosen pleasure ground	ground	pobj	of
+an elevation	elevation	pobj	at
+the nearest treetops	treetops	pobj	of
+it	it	nsubj	describes
+a headlong parabolic curve	curve	dobj	describes
+the ground	ground	dobj	grazing
+a diminishing cadence	cadence	pobj	with
+voice	voice	pobj	of
+wings	wings	conj	voice
+the treetops	treetops	pobj	to
+the opposite side	side	pobj	on
+it	it	nsubj	repeats
+the manoeuvre	manoeuvre	dobj	repeats
+its former position	position	dobj	regaining
+These evolutions	evolutions	nsubjpass	kept
+rapid succession	succession	pobj	in
+as many as thirty flights	flights	nsubjpass	taken
+scarcely a rest	rest	pobj	with
+The geometric exactness	exactness	nsubj	is
+the curves	curves	pobj	of
+the bird	bird	pobj	by
+The nests	nests	nsubjpass	found
+the Blackchinned Hummer	Hummer	pobj	of
+my experience	experience	nsubj	agrees
+Mr. Scott	Scott	pobj	of
+the scarcity	scarcity	pobj	regarding
+nests	nests	pobj	of
+the other hummingbirds	hummingbirds	pobj	of
+the Catalina Mountains	Mountains	dobj	inhabit
+"
+39.
+Trochilus platycercus Swains.
+Broadtailed Hummingbird"	Hummingbird	ROOT	Hummingbird
+A common lird	lird	attr	"
+"
+I	I	nsubj	found
+a pair	pair	dobj	found
+an oak tree	tree	pobj	in
+a dry watercourse	watercourse	pobj	beside
+the nest	nest	dobj	discover
+I	I	nsubj	killed
+the female	female	dobj	killed
+whose body	body	nsubj	contained
+a welldeveloped egg	egg	dobj	contained
+"
+40.
+Tyrannus verticalis Say.
+Arkansas Kingbird"	Kingbird	ROOT	Kingbird
+the plains	plains	pobj	from
+a few hundred feet	feet	pobj	within
+the pines	pines	pobj	of
+"
+Cassin's Kingbird"	Kingbird	ROOT	Kingbird
+the oaks	oaks	pobj	in
+Oracle	Oracle	pobj	near
+"
+Myiarchus mexicanus magister Ridgw"	Ridgw	ROOT	Ridgw
+"
+Arizona Crested Flycatcher"	Flycatcher	ROOT	Flycatcher
+This bird	bird	nsubj	Avas
+It	It	nsubjpass	seen
+an elevation	elevation	pobj	at
+a thousand feet	feet	pobj	of
+Tucson	Tucson	pobj	above
+Myiarchus cinerascens Lawr	Lawr	appos	43
+Tucson	Tucson	pobj	from
+t'le lower regions	regions	pobj	to
+the pine belt	belt	pobj	of
+"41.
+Sayornis saya Bonap"	Bonap	attr	"
+"
+"
+Say's Pliojbe"	Pliojbe	ROOT	Pliojbe
+As uniforndy distributed as the former thougli	thougli	nsubj	common
+the oak woods	woods	pobj	in
+"45.
+Sayornis nigricans Swains"	Swains	attr	"
+"
+Black I'hcwbe	I'hcwbe	attr	"
+"
+Tucson	Tucson	pobj	at
+Contopus pertinax Cab	Cab	oprd	Seen
+Coues' Flycatcher	Flycatcher	conj	Seen
+the pine belt	belt	pobj	in
+they	they	nsubj	were
+the most abundant Flycatcher	Flycatcher	attr	were
+Western Wood Pewee	Pewee	conj	Seen
+the ine	ine	pobj	in
+Western Flycatcher	Flycatcher	conj	Seen
+Two nests	nests	nsubjpass	observed
+several mated jiairs	jiairs	conj	young
+the Catalina pines	pines	pobj	in
+"
+Little Flycatcher"	Flycatcher	ROOT	Flycatcher
+A pair	pair	nsubjpass	taken
+a willow clump	clump	pobj	in
+the banks	banks	pobj	on
+the Santa Clara	Clara	pobj	of
+They	They	nsubj	had
+a nest	nest	dobj	had
+it	it	nsubjpass	found
+"
+Vermilion Flycatcher"	Flycatcher	ROOT	Flycatcher
+The greatest altitude	altitude	nsubj	was
+I	I	nsubj	secured
+this Flycatcher	Flycatcher	dobj	secured
+Oracle	Oracle	pobj	of
+nearly 6000 feet	feet	appos	that
+They	They	nsubj	were
+you	you	nsubj	neared
+the jjlains	jjlains	dobj	neared
+Scorched Horned Lark	Lark	conj	were
+Horned Larks	Larks	nsubj	were
+I	I	nsubj	observed
+small companies	companies	dobj	observed
+the higher plains	plains	pobj	on
+mesas	mesas	conj	plains
+Tucson	Tucson	pobj	between
+the oak belt	belt	conj	Tucson
+I	I	nsubj	succeeded
+a young bird	bird	dobj	securing
+This species	species	nsubjpass	confined
+the pine belt	belt	pobj	to
+my stay	stay	pobj	during
+Its scolding	scolding	nsubj	is
+a peculiar combination	combination	attr	is
+hiss snarl	snarl	pobj	of
+sneer	sneer	conj	snarl
+Aphelocoma woodhousei Baird	Baird	appos	53
+Woodhouse's Jay	Jay	appos	53
+these wary birds	birds	pobj	of
+a mile	mile	pobj	within
+Oracle	Oracle	pobj	of
+the oak belt	belt	pobj	in
+Aphelocoma sieberi arizonae Ridgw	Ridgw	appos	54
+Arizona Jay	Jay	appos	54
+The strict coincidence	coincidence	nsubj	is
+the range	range	pobj	of
+this abundant species	species	pobj	of
+the limits	limits	pobj	with
+the oak belt	belt	pobj	of
+the Longcrested Jay	Jay	pobj	of
+the pines	pines	pobj	with
+corax sinuatus Wagl	Wagl	appos	Corvus
+Several Ravens	Ravens	nsubj	visited
+the water tank	tank	dobj	visited
+corral	corral	conj	tank
+Oracle	Oracle	pobj	at
+I	I	nsubj	saw
+them	them	nsubj	soaring
+the foothills	foothills	pobj	among
+"
+Whitenecked Raven"	Raven	ROOT	Raven
+The above remarks	remarks	nsubj	apply
+this species	species	pobj	to
+the difference	difference	pobj	with
+themselves	themselves	dobj	betook
+higher altitudes	altitudes	pobj	to
+the nearest canon	canon	pobj	down
+the San Pedro	Pedro	pobj	toward
+the valley	valley	pobj	in
+Oracle	Oracle	pobj	around
+These Blackbirds	Blackbirds	nsubj	were
+the watercourses	watercourses	pobj	along
+the .Santa Clara	Clara	pobj	of
+Icterus parisorum Bonap	Bonap	attr	"
+"
+"
+Scott's Oriole"	Oriole	ROOT	Oriole
+the oaks	oaks	pobj	among
+Oracle	Oracle	pobj	around
+A pair	pair	nsubjpass	seen
+the mesquite	mesquite	pobj	in
+the oak belt	belt	dobj	bordering
+"
+60.
+Icterus cucullatus nelsoni Ridgw.
+Arizona Hooded Oriole"	Oriole	ROOT	Oriole
+the range	range	nsubj	extends
+this species	species	pobj	of
+Tucson	Tucson	pobj	from
+the lower edge	edge	pobj	to
+Catalina pines	pines	pobj	of
+it	it	nsubj	was
+the oak belt	belt	pobj	in
+None	None	nsubj	seen
+the Catalina region	region	pobj	in
+the heavy chaparral	chaparral	pobj	in
+the Santa Clara Valley	Valley	pobj	of
+they	they	nsubj	breed
+the cry	cry	dobj	imitating
+a young bird	bird	pobj	of
+myself	myself	dobj	concealing
+the bushes	bushes	pobj	in
+I	I	nsubj	foiled
+a croAvd	croAvd	dobj	bring
+these usually timid birds	birds	pobj	of
+easy range	range	pobj	within
+Very abundant to near the lower pine limit	limit	pobj	"
+"
+males	males	appos	limit
+every stage	stage	pobj	in
+growth	growth	pobj	of
+their call notes	notes	pobj	of
+their actions	actions	conj	Some
+habits	habits	conj	actions
+Passer domesticvs	domesticvs	pobj	of
+Several rather large flocks	flocks	nsubjpass	seen
+Tucson	Tucson	pobj	about
+the oak belt	belt	pobj	in
+two specimens	specimens	nsubjpass	secured
+the oak belt	belt	pobj	in
+Juneo	Juneo	appos	Arizona
+the pine belt	belt	pobj	in
+Amphispiza bilineata Cass	Cass	appos	66
+"
+Ranjinjr coiiunonlv"	coiiunonlv	ROOT	coiiunonlv
+Tucson	Tucson	pobj	from
+lUOO feet	feet	pobj	to
+Oracle	Oracle	pobj	above
+Mr. Scott	Scott	nsubj	makes
+no allusion	allusion	dobj	makes
+this Blackbird	Blackbird	pobj	to
+his paper	paper	pobj	in
+the only species	species	nsubj	ntientioned
+Agelahis	Agelahis	pobj	of
+A. giibernator Auk	Auk	attr	being
+p.	p.	attr	being
+Only one sptcimen	sptcimen	nsubjpass	contained
+an adult male	male	appos	sptcimen
+Mr. Rhoads' collection	collection	pobj	in
+it	it	nsubj	is
+which race	race	pcomp	to
+it	it	nsubjpass	referred
+The measurements	measurements	nsubj	seem
+truert'V	truert'V	pobj	to
+sonoriensis	sonoriensis	pobj	to
+the wing	wing	nsubj	being
+"
+ W. S."	S.	ROOT	S.
+"
+INTATURAL SCIENCES"	SCIENCES	ROOT	SCIENCES
+FHILADELPHIA	FHILADELPHIA	pobj	OF
+Peucaea arizonae	arizonae	pobj	"
+"
+Kiclgw	Kiclgw	appos	arizonae
+"
+Arizona Sparrow"	Sparrow	ROOT	Sparrow
+This species	species	nsubj	frequented
+the thick bunches	bunches	dobj	frequented
+beargrass	beargrass	pobj	of
+the lower edge	edge	pobj	below
+the oak belt	belt	pobj	of
+they	they	nsubj	breeding
+Their habits	habits	nsubj	are
+no time	time	pobj	at
+they	they	nsubj	leave
+the ground	ground	dobj	leave
+the lowly beargrass stems	stems	pobj	on
+a rather sweet song	song	dobj	utter
+Four individuals	individuals	nsubjpass	seen
+a hundred yards	yards	pobj	within
+I	I	nsubj	see
+this species	species	dobj	hear
+a most careful search	search	nsubjpass	made
+the neighborhood	neighborhood	pobj	in
+It	It	nsubjpass	mentioned
+Mr. Scott's paper	paper	pobj	in
+Boucard's Sparrow	Sparrow	appos	fid
+the oak belt	belt	pobj	throughout
+lowest portion	portion	conj	belt
+the pine belt	belt	pobj	of
+Desert Song Sparrow	Sparrow	dobj	see
+the near vicinity	vicinity	pobj	in
+Avater	Avater	pobj	of
+the Santa Clara Valley	Valley	pobj	in
+Spurred Towhee	Towhee	conj	see
+the pines	pines	pobj	in
+the mountain tops	tops	pobj	to
+Canon Towhee	Towhee	appos	Baird
+the forestclad areas	areas	pobj	in
+the oaks	oaks	nsubj	reach
+the pines	pines	pobj	into
+The resemblance	resemblance	nsubj	is
+this bird's song	song	pobj	of
+certain notes	notes	pobj	to
+the Cardinal's repertory	repertory	pobj	in
+Abert	Abert	ROOT	Abert
+Towhee	Towhee	ROOT	Towhee
+This species	species	nsubj	replaces
+the neighborhood	neighborhood	pobj	in
+Tucson	Tucson	pobj	of
+One pair	pair	nsubjpass	secured
+Tucson	Tucson	pobj	at
+"
+Arizona Pyrrhuloxia"	Pyrrhuloxia	ROOT	Pyrrhuloxia
+Tucson	Tucson	pobj	near
+the chaparral	chaparral	pobj	in
+the Santa Clara Valley	Valley	pobj	of
+"
+Blackheaded Grosbeak"	Grosbeak	ROOT	Grosbeak
+the Catalina pines	pines	pobj	in
+very high altitudes	altitudes	pobj	to
+"
+AVestem Blue Grosbeak"	Grosbeak	ROOT	Grosbeak
+the valley	valley	pobj	In
+the Santa Clara	Clara	pobj	of
+this Grosbeak	Grosbeak	nsubjpass	seen
+I	I	nsubj	shot
+a male	male	dobj	shot
+female	female	conj	male
+building material	material	dobj	carrying
+willow thicket	thicket	pobj	intca
+the river bank	bank	pobj	on
+Passerina amceua Say	Say	appos	77
+Lazuli Finch	Finch	appos	77
+the railroad station	station	pobj	near
+Tucson	Tucson	appos	station
+Piranga ludoviciana Wils	Wils	attr	"
+"
+"
+Louisiana Tanager"	Tanager	ROOT	Tanager
+the Catalina pines	pines	pobj	in
+"
+Piranga hepatioa Swains"	Swains	ROOT	Swains
+"
+Hepatic Tanager"	Tanager	ROOT	Tanager
+the same locality	locality	pobj	In
+the upper oak belt	belt	pobj	in
+Piranga rubra cooperi Ridgw	Ridgw	attr	"
+"
+Cooper's Tanager	Tanager	attr	"
+"
+the central portion	portion	pobj	between
+the oak belt	belt	pobj	of
+the Santa Clara Valley	Valley	conj	portion
+Progne subis hesperia Brewst	Brewst	appos	81
+the lowland regions	regions	pobj	in
+Silver Lake	Lake	pobj	about
+"
+82.
+Chelidon erythrogaster Bodd"	Bodd	ROOT	Bodd
+"
+Bam Swallow"	Swallow	ROOT	Swallow
+the foothills	foothills	pobj	on
+the valley	valley	pobj	in
+"83.
+Tachycineta tbalassina Swains"	Swains	attr	"
+"
+Violet Green Sparrow	Sparrow	appos	Swains
+the Catalina mountain tops	tops	pobj	on
+it	it	nsubj	breeds
+holes	holes	pobj	in
+its eastern congener T. bicolor	bicolor	pobj	like
+Clivicola riparia Linn	Linn	conj	Abundant
+Bank Swallow	Swallow	appos	Linn
+Stelgidopteryx serripennis Aud	Aud	appos	Abundant
+Roughwinged Swallow	Swallow	conj	Abundant
+These two species	species	nsubjpass	found
+the higher banks	banks	pobj	along
+the Santa Clara	Clara	pobj	of
+tlie Tucson suburbs	suburbs	pobj	in
+Phainopepla	Phainopepla	attr	"
+"
+all the region	region	pobj	throughout
+6000 feet	feet	pobj	to
+"
+87.
+Lanius ludovicianus excubitorides Swains"	Swains	ROOT	Swains
+Whiterumped Shrike	Shrike	appos	Swains
+the lowlands	lowlands	pobj	from
+Oracle	Oracle	pobj	as
+"
+Warbling Vireo"	Vireo	ROOT	Vireo
+A pair	pair	nsubjpass	found
+these birds	birds	pobj	of
+a maple	maple	pobj	in
+Mt.	Mt.	pobj	on
+Lemon	Lemon	pobj	"
+"
+8000 feet	feet	pobj	at
+"
+Vireo solitarius plumbeus Coues"	Coues	ROOT	Coues
+"
+Plumbeous Vireo"	Vireo	ROOT	Vireo
+the pine belt	belt	pobj	In
+the Catalinas	Catalinas	pobj	of
+I	I	nsubj	found
+the Plumbeous Vireo	Vireo	nsubj	abundant
+habits	habits	pobj	In
+it	it	nsubj	reminded
+me	me	dobj	reminded
+V. solitarius	solitarius	pobj	of
+Only one specimen	specimen	nsubjpass	secured
+a young male	male	appos	specimen
+Mr. Rhoads	Rhoads	pobj	by
+it	it	nsubj	is
+its affinities	affinities	dobj	determine
+certainty	certainty	pobj	with
+it	it	nsubj	seems
+this race	race	dobj	approach
+W. S. J' s ff	ff	ROOT	ff
+its fondness	fondness	pobj	in
+the tops	tops	pobj	for
+the highest evergreens	evergreens	pobj	of
+The song	song	nsubj	is
+our eastern bird	bird	pobj	of
+a resemblance	resemblance	pobj	despite
+"
+90 Vireo bellii pusillus Coues.
+Least 'ireo"	ireo	ROOT	ireo
+The Least Vireo	Vireo	nsubjpass	found
+the chaparral	chaparral	pobj	in
+vacant lots	lots	pobj	of
+Tucson	Tucson	pobj	around
+similar places	places	pobj	in
+the Santa Clara Valley	Valley	pobj	in
+the taxonomic differences	differences	pobj	of
+Mr. Ridgway's claim	claim	dobj	warrant
+full specific rank	rank	pobj	to
+this Vireo	Vireo	pobj	for
+nothing	nothing	attr	is
+its song	song	pobj	in
+habits	habits	conj	song
+this position	position	dobj	support
+"
+Gray Vireo"	Vireo	ROOT	Vireo
+the oakwoods	oakwoods	pobj	in
+"
+Helminthophila luciae Cooper"	Cooper	ROOT	Cooper
+Lucy's AVarbler	AVarbler	dobj	"
+"
+Tucson	Tucson	pobj	from
+a few hundred feet	feet	pobj	to
+Oracle	Oracle	pobj	above
+"
+Virginia Warbler"	Warbler	ROOT	Warbler
+Little companies	companies	nsubj	frequented
+this species	species	pobj	of
+the deciduous trees	trees	dobj	frequented
+the lower edge	edge	pobj	in
+the Pinebelt	Pinebelt	pobj	of
+me	me	dobj	reminding
+their habits	habits	pobj	in
+the Bush Tits	Tits	pobj	of
+Titmice	Titmice	conj	Tits
+they	they	nsubj	associate
+Olive Warbler	Warbler	conj	frequented
+I	I	nsubj	saw
+these birds	birds	pobj	of
+the mountains	mountains	pobj	in
+it	it	dobj	secure
+It	It	nsubj	was
+full view	view	pobj	in
+its peculiar habit	habit	nsubj	convince
+the large pines branches	branches	pobj	on
+the trunk	trunk	pobj	near
+its deliberate movements	movements	nsubj	convince
+characteristic markings	markings	conj	movements
+a glass	glass	pobj	with
+short range	range	pobj	at
+me	me	dobj	convince
+the correctness	correctness	pobj	of
+my identification	identification	pobj	of
+Tucson	Tucson	pobj	around
+the valley	valley	pobj	in
+Audubon's Warbler	Warbler	conj	frequented
+the Catalina	Catalina	pobj	in
+the pines	pines	pobj	among
+Dendroica graciae Coues	Coues	dobj	frequented
+Grace's Warbler	Warbler	dobj	frequented
+the pines	pines	pobj	in
+Blackthroated Gray Warbler	Warbler	conj	frequented
+the pines	pines	pobj	in
+A young bird	bird	nsubj	is
+this race	race	pobj	of
+the collection	collection	pobj	in
+the lores	lores	nsubj	yellow
+sides	sides	conj	lores
+the throat	throat	pobj	of
+the lesser wing coverts	coverts	nsubj	edged
+rump yellowolive greater wing coverts	coverts	conj	coverts
+buff wings	wings	pobj	with
+tail	tail	conj	wings
+adults	adults	pobj	in
+The specimen	specimen	nsubj	moulting
+yellow pin feathers	feathers	nsubj	are
+the breast	breast	pobj	on
+W. S.	S.	dobj	"
+ "
+Geothlypis trichas occidentalis Brewst	Brewst	attr	"
+"
+Western Yellowthroat	Yellowthroat	attr	"
+"
+the immediate vicinity	vicinity	pobj	in
+running water	water	pobj	of
+Tucson	Tucson	pobj	around
+Longtailed Chat	Chat	appos	Lawr
+the valley	valley	pobj	in
+Setophaga picta Swains	Swains	appos	Lawr
+Painted Redstart	Redstart	attr	"
+"
+This exquisite species	species	nsubj	was
+the Catalina jiine woods	woods	pobj	in
+the upper edge	edge	conj	woods
+the oak belt	belt	pobj	of
+"102.
+Cardellina rubrifrons Giraud"	Giraud	attr	"
+"
+Redfaced Warbler	Warbler	attr	"
+"
+The above remarks	remarks	nsubj	apply
+this species	species	pobj	to
+its range	range	nsubj	extend
+the Redstart	Redstart	pobj	of
+"103.
+Mimus polyglottos Linn"	Linn	attr	"
+"
+Mockingbird	Mockingbird	attr	"
+"
+AVithout exception	exception	attr	"
+"
+the most abundant bird	bird	appos	exception
+the country	country	pobj	in
+5000 or 6000 feet	feet	pobj	to
+Palmer's Thrasher	Thrasher	attr	"
+"
+my recollection	recollection	pobj	of
+Palmer's Thrasher	Thrasher	nsubj	was
+the commonest species	species	attr	was
+the genus	genus	pobj	of
+Harporhyncus bendirei Coues	Coues	attr	was
+Bendire's Thrasher	Thrasher	attr	was
+the plains	plains	pobj	from
+4000 feet	feet	pobj	to
+Harporhyncus crissalis Henry	Henry	appos	106
+abundance	abundance	pobj	in
+a similar range	range	pobj	with
+H. hencUrei	hencUrei	pobj	to
+Campylorhynchus brunneicapillus Lafr	Lafr	attr	"
+"
+"
+Cactus Wren"	Wren	ROOT	Wren
+all dry situations	situations	pobj	in
+Tucson	Tucson	pobj	between
+Oracle	Oracle	conj	Tucson
+"
+108.
+Salpinctes obsoletus Say.
+Rock Wren"	Wren	ROOT	Wren
+rocky situations	situations	pobj	in
+the oak belt	belt	pobj	within
+A pair	pair	attr	"
+"
+top	top	pobj	on
+a spur	spur	pobj	of
+Mt.	Mt.	pobj	of
+"
+Lemon"	Lemon	appos	pair
+"109.
+Catherpes"	Catherpes	ROOT	Catherpes
+mexicanus punctulatus Ridgw	Ridgw	appos	Catherpes
+Dotted Cafion AVren	AVren	appos	Catherpes
+these enchanting songsters	songsters	pobj	of
+the rocks	rocks	pobj	among
+a hill	hill	pobj	of
+Tucson	Tucson	pobj	near
+the waters	waters	nsubj	flowed
+the Santa Clara	Clara	pobj	of
+They	They	nsubj	were
+this locality	locality	pobj	in
+I	I	nsubj	discovered
+them	them	dobj	discovered
+the bouldercovered foothills	foothills	pobj	in
+Oracle	Oracle	pobj	about
+them	them	nsubj	breeding
+the Santa Catalinas	Catalinas	pobj	in
+one pair	pair	nsubj	located
+a pile	pile	pobj	in
+rocks	rocks	pobj	of
+our camp	camp	pobj	above
+Goilm	Goilm	ROOT	Goilm
+"
+Baird's AVren"	AVren	ROOT	AVren
+the oak belt	belt	pobj	Throughout
+some distance	distance	pobj	for
+the pines	pines	pobj	in
+this species	species	nsubj	was
+I	I	nsubj	find
+a lower elevation	elevation	pobj	at
+"
+111.
+Troglodytes aedonaztecus Baird.
+Western House Wren"	Wren	ROOT	Wren
+the pine clad areas	areas	pobj	in
+the Catalinas	Catalinas	pobj	of
+its ranoe	ranoe	nsubj	overlans
+Baird's Wren	Wren	pobj	of
+Mexican Creeper	Creeper	attr	"
+"
+the higher pines	pines	pobj	in
+Mt.	Mt.	pobj	on
+Lemon	Lemon	pobj	"
+"
+7000 to 8000 feet	feet	appos	Lemon
+"
+113.
+Sitta carolinensis aeuleata Cass..
+Slenderbilled Nuthatch"	Nuthatch	ROOT	Nuthatch
+the pines	pines	pobj	throughout
+the highest mountain tops	tops	pobj	to
+"114.
+Sitta pygmaea Vig"	Vig	appos	"
+"
+"
+Pygmy Nuthatch"	Nuthatch	ROOT	Nuthatch
+preceding species	species	pobj	with
+"115.
+Parus wollweheri Bonap"	Bonap	dobj	Coextensive
+Bridled Titmouse	Titmouse	conj	Coextensive
+the oakbelt	oakbelt	pobj	in
+lower edge	edge	conj	oakbelt
+pine belt	belt	pobj	of
+Parus gambeli Ridgw	Ridgw	conj	Coextensive
+Mountain Chickadee	Chickadee	conj	Coextensive
+the Catalina mountains	mountains	pobj	on
+flocks	flocks	pobj	in
+7000 feet	feet	pobj	above
+the tops	tops	pobj	in
+the lofty firs	firs	pobj	of
+"117.
+Psaltriparus plumbeus Baird"	Baird	ROOT	Baird
+"
+Leadcolored BushTit"	BushTit	ROOT	BushTit
+every whei'e	whei'e	dobj	Found
+the limits	limits	pobj	within
+the oak belt	belt	pobj	of
+Auriparus flaviceps Sund	Sund	ROOT	Sund
+Verdin	Verdin	appos	Sund
+I	I	nsubj	saw
+the Verdin	Verdin	dobj	saw
+the fringe	fringe	pobj	in
+the oak growth	growth	pobj	of
+it	it	nsubj	became
+I	I	nsubj	neared
+Tucson	Tucson	dobj	neared
+it	it	nsubj	was
+I	I	nsubj	found
+a male	male	dobj	found
+this species	species	pobj	of
+the fir tops	tops	pobj	among
+the summit	summit	pobj	near
+Mt.	Mt.	pobj	of
+Lemon	Lemon	pobj	"
+"
+It	It	nsubj	continued
+a sweet song	song	dobj	utter
+I	I	nsubj	watched
+it	it	dobj	watched
+my glass	glass	pobj	through
+"
+Western Gnateateher"	Gnateateher	ROOT	Gnateateher
+Breeds	Breeds	nsubj	common
+the lower edge	edge	pobj	in
+the pines	pines	pobj	of
+"
+Plumbeous Gnateateher"	Gnateateher	ROOT	Gnateateher
+the foothills	foothills	pobj	among
+higher uplands	uplands	conj	foothills
+the valleys	valleys	pobj	in
+the lower pine belt	belt	pobj	In
+it	it	nsubjpass	replaced
+the other species	species	pobj	by
+Turdus aonalaschkae auduboni Baird	Baird	appos	122
+These thrushes	thrushes	nsubj	sang
+my ascent	ascent	pobj	during
+Mount Lemon	Lemon	pobj	of
+the opposing canons	canons	pobj	from
+the same measured cadences	cadences	pobj	with
+pauses	pauses	conj	cadences
+the song	song	dobj	characterize
+This species	species	nsubj	seem
+this disirict V.	V.	pobj	from
+the first day	day	pobj	on
+July	July	pobj	of
+what	what	dobj	observed
+I	I	nsubj	observed
+they	they	nsubj	were
+the breeding season	season	nsubj	was
+its height	height	pobj	at
+"
+Western Robin"	Robin	ROOT	Robin
+A small number	number	attr	"
+"
+the Catalina pines	pines	pobj	among
+"
+AVestern Bluebird"	Bluebird	ROOT	Bluebird
+the pine belt	belt	pobj	in
+all elevations	elevations	pobj	at
+their proper place	place	pobj	from
+the list	list	pobj	in
+"
+Zenaidura macroura Linn"	Linn	ROOT	Linn
+Mourning Dove	Dove	appos	Linn
+Oracle	Oracle	appos	Linn
+Tucson	Tucson	conj	Oracle
+Melopelia leucoptera Linn	Linn	attr	"
+"
+Whitewinged Dove	Dove	appos	Linn
