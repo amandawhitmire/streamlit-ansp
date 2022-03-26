@@ -13,7 +13,9 @@ st.set_page_config(layout="wide")
 
 MODELS = srsly.read_json(Path(__file__).parent / "models.json")
 DEFAULT_MODEL = "en_core_web_sm"
-DEFAULT_TEXT =  "Frances Naomi Clark was an American ichthyologist born in 1894, and was one of the first woman fishery researchers to receive world-wide recognition. She attended Stanford University, and worked for the California Division of Fish and Game. Seven Ampelis cedrorum specimens were collected in a meadow near lowland fruit trees."
+# DEFAULT_TEXT =  "Frances Naomi Clark was an American ichthyologist born in 1894, and was one of the first woman fishery researchers to receive world-wide recognition. She attended Stanford University, and worked for the California Division of Fish and Game. Seven Ampelis cedrorum specimens were collected in a meadow near lowland fruit trees."
+DFEAULT_TEXT = "Chitons collected by Dr. Harold Heath at Pacific Grove, near Monterey, California by H. A. Pilsbry. During the summer of 1897 Dr. Heath collected a series of invertebrates and fishes for the Academy, including some twenty-four species and varieties of Polyplacophora. At Pacific Grove, the typical Mopalia muscosa, typical Mopalia lignosa and typical Mopalia hindsii occur, without, so far as the series seen shows, any specimens of intermediate character. A Mopalia described below, differs from those hitherto known in the perfectly regular form of the tail valve, which is like that of Ischnochiton, thus breaking down, in large measure, the distinction between the Ischnochitonidae and the Mopaliidae. This lawless species is new."
+
 DESCRIPTION = """**Explore trained [spaCy v3.0](https://nightly.spacy.io) pipelines with the Proceedings of the Academy of Natural Sciences of Philadelphia (ANSP)**"""
 FOOTER = """<span style="font-size: 0.75em">&hearts; Built with [`spacy-streamlit`](https://github.com/explosion/spacy-streamlit)</span>"""
 
